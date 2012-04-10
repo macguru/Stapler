@@ -1,0 +1,6502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundles</key>
+	<array>
+		<dict>
+			<key>change date</key>
+			<date>2001-01-01T00:00:00Z</date>
+			<key>changed values</key>
+			<array/>
+			<key>class</key>
+			<string>BLBundleObject</string>
+			<key>files</key>
+			<array>
+				<dict>
+					<key>class</key>
+					<string>BLRTFFileObject</string>
+					<key>name</key>
+					<string>AboutBox.rtf</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLRTFDKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>content</string>
+							<key>localizations</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAAcAClkkYXJj
+							aGl2ZXJYJHZlcnNpb25U
+							JHRvcFgkb2JqZWN0c18Q
+							D05TS2V5ZWRBcmNoaXZl
+							chIAAYag0QAIAAlUcm9v
+							dIABrxBZAAsADAAdAB4A
+							HwAgACEAIgAqACsANwA/
+							AEAAQQBJAEoATwBXAGYA
+							agBtAHAAcwB2AHkAfAB/
+							AIIAhQCIAIsAjgCRAJMA
+							lgCeAKEAogCqAK4AsQDA
+							AMgA0ADTAOIA5QDoAOsA
+							7gDxAPQA9wD6AP0BAAED
+							AQYBDgERASABKAEvATIB
+							OgE+AUYBSQFNAVEBVAFZ
+							AVoBZgFpAW4BbwF3AXoB
+							fwGAAY0BlQGZAZwBqwGu
+							AbEBslUkbnVsbNMADQAO
+							AA8AEAAWABxaTlMub2Jq
+							ZWN0c1dOUy5rZXlzViRj
+							bGFzc6UAEQASABMAFAAV
+							gAeARoBKgE6AVqUAFwAY
+							ABkAGgAbgAKAA4AEgAWA
+							BoBYUmVuUmRlUmVzUm5s
+							UmZy1AAjACQADwAlACYA
+							JwAoAClfEA9OU0F0dHJp
+							YnV0ZUluZm9cTlNBdHRy
+							aWJ1dGVzWE5TU3RyaW5n
+							gEOACYBFgAhvEQGuAEQA
+							ZQB2AGUAbABvAHAAbQBl
+							AG4AdAAKAE0AYQB4ACAA
+							UwBlAGUAbABlAG0AYQBu
+							AG4ACgA8AHMAZQBlAGwA
+							ZQBtAGEAbgBuAEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG0APgAKAAoAQwBv
+							AG4AYwBlAHAAdAAgACYA
+							IABJAG4AdABlAHIAZgBh
+							AGMAZQAKAE0AYQByAGMA
+							dQBzACAARgBlAGgAbgAK
+							ADwAZgBlAGgAbgBAAGIA
+							bAB1AGUALQB0AGUAYwAu
+							AGMAbwBtAD4ACgAKAEEA
+							cABwAGwAaQBjAGEAdABp
+							AG8AbgAgAEkAYwBvAG4A
+							CgBSAG8AbgAgAE0AZQBp
+							AGoAZQByAAoAPABpAG4A
+							ZgBvAHIAbQBhAHQAaQBv
+							AG4AQABzAHQAeQBsAC0A
+							eAAuAGMAbwBtAD4ACgAK
+							AEwAbwBjAGEAbABpAHoA
+							YQB0AGkAbwBuAAoAUwBw
+							AGEAbgBpAHMAaAA6AAoA
+							QQBsAGIAZQByAHQAbwAg
+							AEcAbwBtAGIA4QB1AAoA
+							CgBEAHUAdABjAGgAOgAK
+							AEoAbwBvAHMAdAAgAEQA
+							aQBrAGsAZQByACAASAB1
+							AHAAawBlAHMACgAKAEIA
+							ZQB0AGEAIABUAGUAcwB0
+							AGUAcgBzAAoAUgBpAGMA
+							aABhAHIAZAAgAEwAYQBu
+							AGQAZgBlAHIAbQBhAG4A
+							bgAKAEMAYQByAHMAdABl
+							AG4AIABUAGgAaQBlAGwA
+							ZQAKAEYAcgBpAGUAZABl
+							AHIAaQBrAGUAIABTAGMA
+							aADkAGYAZQByAAoARgBy
+							AGEAbgBrACAAUwB0AGUA
+							bgBnAGUAbAAKAFUAbABs
+							AGEAIABLAGkAbgBlAHQA
+							CgBDAGEAaQBvAAoAQQBu
+							AG4AYQAgAE4AbwBsAGQA
+							ZQAKAE0AYQByAGMAdQBz
+							ACAARgBlAGgAbgAKAE0A
+							YQB4ACAAUwBlAGUAbABl
+							AG0AYQBuAG4ACgAKAFcA
+							ZQBiAHMAaQB0AGUACgBo
+							AHQAdABwADoALwAvAHcA
+							dwB3AC4AYgBsAHUAZQAt
+							AHQAZQBjAC4AYwBvAG0A
+							LwBzAHQAYQBwAGwAZQBy
+							AC8ACgAKAEMAbwBuAHQA
+							YQBjAHQACgBzAHUAcABw
+							AG8AcgB0AEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG3SAA0ADwAsADapAC0A
+							LgAvADAAMQAyADMANAA1
+							gAqAIoAlgCmAKoA5gDyA
+							P4BBgELTAA0ADgAPADgA
+							OwA+ogA5ADqADYAQogA8
+							AD2AC4AMgCFWTlNGb250
+							XxAQTlNQYXJhZ3JhcGhT
+							dHlsZdQAQgBDAA8ARABF
+							AEYARwBIVk5TU2l6ZVZO
+							U05hbWVYTlNmRmxhZ3Mi
+							QTAAAIAOgA8QEF5IZWx2
+							ZXRpY2EtQm9sZNIASwBM
+							AE0AP1gkY2xhc3Nlc1ok
+							Y2xhc3NuYW1logA/AE5Y
+							TlNPYmplY3TUAFAAUQBS
+							AA8AUwBUAFUAVl8QFE5T
+							TGluZUhlaWdodE11bHRp
+							cGxlWk5TVGFiU3RvcHNb
+							TlNBbGlnbm1lbnQiP4zM
+							zYAREASAINIADQAPAFgA
+							ZawAWQBaAFsAXABdAF4A
+							XwBgAGEAYgBjAGSAEoAU
+							gBWAFoAXgBiAGYAagBuA
+							HIAdgB6AH9IAZwAPAGgA
+							aVpOU0xvY2F0aW9uIkHi
+							ZmaAE9IASwBMAGsAbKIA
+							bABOWU5TVGV4dFRhYtIA
+							ZwAPAG4AaSJCYpmagBPS
+							AGcADwBxAGkiQqoAAIAT
+							0gBnAA8AdABpIkLiszOA
+							E9IAZwAPAHcAaSJDDbMz
+							gBPSAGcADwB6AGkiQyoM
+							zYAT0gBnAA8AfQBpIkNG
+							ZmaAE9IAZwAPAIAAaSJD
+							YsAAgBPSAGcADwCDAGki
+							Q38ZmoAT0gBnAA8AhgBp
+							IkONuZqAE9IAZwAPAIkA
+							aSJDm+ZmgBPSAGcADwCM
+							AGkiQ6oTM4AT0gBLAEwA
+							jwCQogCQAE5XTlNBcnJh
+							edIASwBMAJIAQKIAQABO
+							0gBLAEwAlACVogCVAE5c
+							TlNEaWN0aW9uYXJ50wAN
+							AA4ADwCXAJoAPqIAmAA6
+							gCOAEKIAPAA9gAuADIAh
+							1ABCAEMADwBEAEUAnwBH
+							AEiAJIAPWUhlbHZldGlj
+							YdMADQAOAA8AowCmAD6i
+							AKQApYAmgCeiADwAPYAL
+							gAyAIdQAQgBDAA8ARACr
+							AJ8ARwBIIkEQAACAJIAP
+							0wBRAFIADwCvAFUAVoAo
+							gCDSAA0ADwCyAGWsAFkA
+							WgBbAFwAXQBeAF8AYABh
+							AGIAYwBkgBKAFIAVgBaA
+							F4AYgBmAGoAbgByAHYAe
+							gB/TAA0ADgAPAMEAxAA+
+							ogCYAKWAI4AnogA8AD2A
+							C4AMgCHTAA0ADgAPAMkA
+							zAA+ogCYAMuAI4ArogA8
+							AD2AC4AMgCHTAFEAUgAP
+							ANEAVQBWgCyAINIADQAP
+							ANQAZawA1QDWANcA2ADZ
+							ANoA2wDcAN0A3gDfAOCA
+							LYAugC+AMIAxgDKAM4A0
+							gDWANoA3gDiAH9IAZwAP
+							AOMAaSJB4AAAgBPSAGcA
+							DwDmAGkiQmAAAIAT0gBn
+							AA8A6QBpIkKoAACAE9IA
+							ZwAPAOwAaSJC4AAAgBPS
+							AGcADwDvAGkiQwwAAIAT
+							0gBnAA8A8gBpIkMoAACA
+							E9IAZwAPAPUAaSJDRAAA
+							gBPSAGcADwD4AGkiQ2AA
+							AIAT0gBnAA8A+wBpIkN8
+							AACAE9IAZwAPAP4AaSJD
+							jAAAgBPSAGcADwEBAGki
+							Q5oAAIAT0gBnAA8BBABp
+							IkOoAACAE9MADQAOAA8B
+							BwEKAD6iAKQBCYAmgDqi
+							ADwAPYALgAyAIdQAUABR
+							AFIADwBTAQ8AVQBWgDuA
+							INIADQAPARIAZawAWQBa
+							AFsAXABdAF4AXwBgAGEA
+							YgBjAGSAEoAUgBWAFoAX
+							gBiAGYAagBuAHIAdgB6A
+							H9MADQAOAA8BIQEkAD6i
+							AJgBI4AjgD2iADwAPYAL
+							gAyAIdUAUQBSASkADwEq
+							ASsAVQEsAFYBLl8QEk5T
+							V3JpdGluZ0RpcmVjdGlv
+							bl8QFE5TRGVmYXVsdFRh
+							YkludGVydmFsgD4QAYAg
+							IkIQAADSAA0ADwEwAGWg
+							gB/TAA0ADgAPATMBNgA+
+							ogE0ASOAQIA9ogA8AD2A
+							C4AMgCHUAEIAQwAPAEQB
+							OwCfAEcASCJAgAAAgCSA
+							D9MADQAOAA8BPwFCAD6i
+							AKQBI4AmgD2iADwAPYAL
+							gAyAIdIASwBMAUcBSKMB
+							SACQAE5eTlNNdXRhYmxl
+							QXJyYXnSAUoADwFLAUxX
+							TlMuZGF0YU8QPAsADwEY
+							AgEDAQETAA0BEwIBAwEB
+							EQALBBgCAQMBAQwAAQEI
+							BQEBDwYBBwYIFQYBAQwA
+							ewEHACMBBwAVAYBE0gBL
+							AEwBTgFPowFPAVAATl1O
+							U011dGFibGVEYXRhVk5T
+							RGF0YdIASwBMAVIBU6IB
+							UwBOXxASTlNBdHRyaWJ1
+							dGVkU3RyaW5n1AAjACQA
+							DwAlAVUBVgAoAViASYBI
+							gEWAR28RAbQARQBuAHQA
+							dwBpAGMAawBsAHUAbgBn
+							AAoATQBhAHgAIABTAGUA
+							ZQBsAGUAbQBhAG4AbgAK
+							ADwAcwBlAGUAbABlAG0A
+							YQBuAG4AQABiAGwAdQBl
+							AC0AdABlAGMALgBjAG8A
+							bQA+AAoACgBLAG8AbgB6
+							AGUAcAB0ACAAJgAgAEkA
+							bgB0AGUAcgBmAGEAYwBl
+							AAoATQBhAHIAYwB1AHMA
+							IABGAGUAaABuAAoAPABm
+							AGUAaABuAEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0APgAKAAoAUAByAG8A
+							ZwByAGEAbQAgAEkAYwBv
+							AG4ACgBSAG8AbgAgAE0A
+							ZQBpAGoAZQByAAoAPABp
+							AG4AZgBvAHIAbQBhAHQA
+							aQBvAG4AQABzAHQAeQBs
+							AC0AeAAuAGMAbwBtAD4A
+							CgAKAEwAbwBrAGEAbABp
+							AHMAaQBlAHIAdQBuAGcA
+							CgBTAHAAYQBuAGkAcwBj
+							AGgAOgAKAEEAbABiAGUA
+							cgB0AG8AIABHAG8AbQBi
+							AOEAdQAKAAoATgBpAGUA
+							ZABlAHIAbADkAG4AZABp
+							AHMAYwBoADoACgBKAG8A
+							bwBzAHQAIABEAGkAawBr
+							AGUAcgAgAEgAdQBwAGsA
+							ZQBzAAoACgBCAGUAdABh
+							ACAAVABlAHMAdABlAHIA
+							CgBSAGkAYwBoAGEAcgBk
+							ACAATABhAG4AZABmAGUA
+							cgBtAGEAbgBuAAoAQwBh
+							AHIAcwB0AGUAbgAgAFQA
+							aABpAGUAbABlAAoARgBy
+							AGkAZQBkAGUAcgBpAGsA
+							ZQAgAFMAYwBoAOQAZgBl
+							AHIACgBGAHIAYQBuAGsA
+							IABTAHQAZQBuAGcAZQBs
+							AAoAVQBsAGwAYQAgAEsA
+							aQBuAGUAdAAKAEMAYQBp
+							AG8ACgBBAG4AbgBhACAA
+							TgBvAGwAZABlAAoATQBh
+							AHIAYwB1AHMAIABGAGUA
+							aABuAAoATQBhAHgAIABT
+							AGUAZQBsAGUAbQBhAG4A
+							bgAKAAoAVwBlAGIAcwBp
+							AHQAZQAKAGgAdAB0AHAA
+							OgAvAC8AdwB3AHcALgBi
+							AGwAdQBlAC0AdABlAGMA
+							LgBjAG8AbQAvAHMAdABh
+							AHAAbABlAHIALwAKAAoA
+							SwBvAG4AdABhAGsAdAAK
+							AHMAdQBwAHAAbwByAHQA
+							QABiAGwAdQBlAC0AdABl
+							AGMALgBjAG8AbdIADQAP
+							AVsANqkALQAuAC8AMAAx
+							ADIAMwA0ADWACoAigCWA
+							KYAqgDmAPIA/gEGAQtIB
+							SgAPAWcBTE8QPAsADwEY
+							AgEDAQETAA0BEwIBAwEB
+							DQALBBgCAQMBAQ0AAQEJ
+							BQEBDwYBBw8IFQYBAQsA
+							ewEHACMBBwAVAYBE1AAj
+							ACQADwAlAWoBawAoAW2A
+							TYBMgEWAS28RAXMARABl
+							AHMAYQByAHIAbwBsAGwA
+							bwAKAE0AYQB4ACAAUwBl
+							AGUAbABlAG0AYQBuAG4A
+							CgA8AHMAZQBlAGwAZQBt
+							AGEAbgBuAEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0APgAKAAoAQwBvAG4A
+							YwBlAHAAdABvACAAZQAg
+							AGkAbgB0AGUAcgBmAGEA
+							YwBlAAoATQBhAHIAYwB1
+							AHMAIABGAGUAaABuAAoA
+							PABmAGUAaABuAEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG0APgAKAAoASQBj
+							AG8AbgBvACAAZABlACAA
+							bABhACAAYQBwAGwAaQBj
+							AGEAYwBpAPMAbgAKAFIA
+							bwBuACAATQBlAGkAagBl
+							AHIACgA8AGkAbgBmAG8A
+							cgBtAGEAdABpAG8AbgBA
+							AHMAdAB5AGwALQB4AC4A
+							YwBvAG0APgAKAAoAQgBl
+							AHQAYQAgAFQAZQBzAHQA
+							ZQByAHMACgBSAGkAYwBo
+							AGEAcgBkACAATABhAG4A
+							ZABmAGUAcgBtAGEAbgBu
+							AAoAQwBhAHIAcwB0AGUA
+							bgAgAFQAaABpAGUAbABl
+							AAoARgByAGkAZQBkAGUA
+							cgBpAGsAZQAgAFMAYwBo
+							AOQAZgBlAHIACgBGAHIA
+							YQBuAGsAIABTAHQAZQBu
+							AGcAZQBsAAoAVQBsAGwA
+							YQAgAEsAaQBuAGUAdAAK
+							AEMAYQBpAG8ACgBBAG4A
+							bgBhACAATgBvAGwAZABl
+							AAoATQBhAHIAYwB1AHMA
+							IABGAGUAaABuAAoATQBh
+							AHgAIABTAGUAZQBsAGUA
+							bQBhAG4AbgAKAAoAVwBl
+							AGIAcwBpAHQAZQAKAGgA
+							dAB0AHAAOgAvAC8AdwB3
+							AHcALgBiAGwAdQBlAC0A
+							dABlAGMALgBjAG8AbQAv
+							AHMAdABhAHAAbABlAHIA
+							LwAKAAoAQwBvAG4AdABh
+							AGMAdABvAAoAcwB1AHAA
+							cABvAHIAdABAAGIAbAB1
+							AGUALQB0AGUAYwAuAGMA
+							bwBt0gANAA8BcAA2pQAt
+							AC4ALwAwADGACoAigCWA
+							KYAqgELSAUoADwF4AUxP
+							ECoKAA8BGAIBAwEBFAAN
+							ARMCAQMBARcACwQYAgED
+							AQEMAHsBBwAjAQgAFQGA
+							RNQAIwAkAA8AJQF7AXwA
+							KAF+gFWAUIBFgE9vEQGu
+							AE8AbgB0AHcAaQBrAGsA
+							ZQBsAGEAYQByAAoATQBh
+							AHgAIABTAGUAZQBsAGUA
+							bQBhAG4AbgAKADwAcwBl
+							AGUAbABlAG0AYQBuAG4A
+							QABiAGwAdQBlAC0AdABl
+							AGMALgBjAG8AbQA+AAoA
+							CgBDAG8AbgBjAGUAcAB0
+							ACAAJgAgAGkAbgB0AGUA
+							cgBmAGEAYwBlAAoATQBh
+							AHIAYwB1AHMAIABGAGUA
+							aABuAAoAPABmAGUAaABu
+							AEAAYgBsAHUAZQAtAHQA
+							ZQBjAC4AYwBvAG0APgAK
+							AAoAUAByAG8AZwByAGEA
+							bQBtAGEAIABpAGsAbwBv
+							AG4ACgBSAG8AbgAgAE0A
+							ZQBpAGoAZQByAAoAPABp
+							AG4AZgBvAHIAbQBhAHQA
+							aQBvAG4AQABzAHQAeQBs
+							AC0AeAAuAGMAbwBtAD4A
+							CgAKAEwAbwBjAGEAbABp
+							AHoAYQB0AGkAbwBuAAoA
+							UwBwAGEAbgBpAHMAaAA6
+							AAoAQQBsAGIAZQByAHQA
+							bwAgAEcAbwBtAGIA4QB1
+							AAoACgBEAHUAdABjAGgA
+							OgAKAEoAbwBvAHMAdAAg
+							AEQAaQBrAGsAZQByACAA
+							SAB1AHAAawBlAHMACgAK
+							AEIAZQB0AGEAIAB0AGUA
+							cwB0AGUAcgBzAAoAUgBp
+							AGMAaABhAHIAZAAgAEwA
+							YQBuAGQAZgBlAHIAbQBh
+							AG4AbgAKAEMAYQByAHMA
+							dABlAG4AIABUAGgAaQBl
+							AGwAZQAKAEYAcgBpAGUA
+							ZABlAHIAaQBrAGUAIABT
+							AGMAaADkAGYAZQByAAoA
+							RgByAGEAbgBrACAAUwB0
+							AGUAbgBnAGUAbAAKAFUA
+							bABsAGEAIABLAGkAbgBl
+							AHQACgBDAGEAaQBvAAoA
+							QQBuAG4AYQAgAE4AbwBs
+							AGQAZQAKAE0AYQByAGMA
+							dQBzACAARgBlAGgAbgAK
+							AE0AYQB4ACAAUwBlAGUA
+							bABlAG0AYQBuAG4ACgAK
+							AFcAZQBiAHMAaQB0AGUA
+							CgBoAHQAdABwADoALwAv
+							AHcAdwB3AC4AYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0ALwBzAHQAYQBwAGwA
+							ZQByAC8ACgAKAEMAbwBu
+							AHQAYQBjAHQACgBzAHUA
+							cABwAG8AcgB0AEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG3SAA0ADwGBADaq
+							AC0BgwAuAC8AMAAxADIA
+							MwA0ADWACoBRgCKAJYAp
+							gCqAOYA8gD+AQYBC0wAN
+							AA4ADwGOAZEAPqIBjwGQ
+							gFKAU6IAPAA9gAuADIAh
+							1ABCAEMADwBEAZYAnwBH
+							AEgiQUAAAIAkgA/UAFAA
+							UQBSAA8AUwGaAFUAVoBU
+							gCDSAA0ADwGdAGWsAFkA
+							WgBbAFwAXQBeAF8AYABh
+							AGIAYwBkgBKAFIAVgBaA
+							F4AYgBmAGoAbgByAHYAe
+							gB/SAUoADwGsAUxPED4M
+							AAEBDgIYAwEEAQITAA0C
+							EwMBBAECEAALBRgDAQQB
+							AgwAAQIIBgECDwcBCAYJ
+							FQcBAgwAewIHACMCBwAV
+							AoBE0gAPACUAKAGwgEWA
+							V1DSAEsATAGzAbSjAbQA
+							lQBOXxATTlNNdXRhYmxl
+							RGljdGlvbmFyeQAIABkA
+							IwAsADEAOgBMAFEAVgBb
+							AF0BEgEYASUBMAE4AT8B
+							SgFMAU4BUAFSAVQBXwFh
+							AWMBZQFnAWkBawFuAXEB
+							dAF3AXoBiwGdAaoBswG1
+							AbcBuQG7BRsFJAU3BTkF
+							OwU9BT8FQQVDBUUFRwVJ
+							BUsFWAVdBV8FYQVmBWgF
+							agVsBXMFhgWXBZ4FpQWu
+							BbMFtQW3BbkFyAXRBdoF
+							5QXqBfMGBAYbBiYGMgY3
+							BjkGOwY9BkYGXwZhBmMG
+							ZQZnBmkGawZtBm8GcQZz
+							BnUGdwZ5BoIGjQaSBpQG
+							nQaiBqwGtQa6BrwGxQbK
+							BswG1QbaBtwG5QbqBuwG
+							9Qb6BvwHBQcKBwwHFQca
+							BxwHJQcqBywHNQc6BzwH
+							RQdKB0wHVQdaB1wHZQdq
+							B3IHeweAB4kHjgebB6gH
+							rQevB7EHtge4B7oHvAfN
+							B88H0QfbB+gH7QfvB/EH
+							9gf4B/oH/AgNCBIIFAgW
+							CCMIJQgnCDAISQhLCE0I
+							TwhRCFMIVQhXCFkIWwhd
+							CF8IYQhjCHAIdQh3CHkI
+							fgiACIIIhAiRCJYImAia
+							CJ8IoQijCKUIsgi0CLYI
+							vwjYCNoI3AjeCOAI4gjk
+							COYI6AjqCOwI7gjwCPII
+							+wkACQIJCwkQCRIJGwkg
+							CSIJKwkwCTIJOwlACUIJ
+							SwlQCVIJWwlgCWIJawlw
+							CXIJewmACYIJiwmQCZIJ
+							mwmgCaIJqwmwCbIJvwnE
+							CcYJyAnNCc8J0QnTCeQJ
+							5gnoCfEKCgoMCg4KEAoS
+							ChQKFgoYChoKHAoeCiAK
+							IgokCjEKNgo4CjoKPwpB
+							CkMKRQpaCm8KhgqICooK
+							jAqRCpoKmwqdCqoKrwqx
+							CrMKuAq6CrwKvgrPCtQK
+							1grYCuUK6grsCu4K8wr1
+							CvcK+QsCCwkLGAshCykL
+							aAtqC3MLeguIC48LmAud
+							C7ILwwvFC8cLyQvLDzcP
+							QA9TD1UPVw9ZD1sPXQ9f
+							D2EPYw9lD2cPcA+vD7EP
+							wg/ED8YPyA/KErQSvRLI
+							EsoSzBLOEtAS0hLUEt0T
+							ChMMEx0THxMhEyMTJRaF
+							Fo4WoxalFqcWqRarFq0W
+							rxaxFrMWtRa3FrkWxhbL
+							Fs0WzxbUFtYW2BbaFusW
+							8BbyFvQXBRcHFwkXEhcr
+							Fy0XLxcxFzMXNRc3FzkX
+							Oxc9Fz8XQRdDF0UXTheP
+							F5EXmhecF54XnxeoF68A
+							AAAAAAACAgAAAAAAAAG1
+							AAAAAAAAAAAAAAAAAAAX
+							xQ==
+							</data>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLRTFDKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>content</string>
+							<key>localizations</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAAcAClkkYXJj
+							aGl2ZXJYJHZlcnNpb25U
+							JHRvcFgkb2JqZWN0c18Q
+							D05TS2V5ZWRBcmNoaXZl
+							chIAAYag0QAIAAlUcm9v
+							dIABrxBZAAsADAAdAB4A
+							HwAgACEAIgAqACsANwA/
+							AEAAQQBJAEoATwBXAGYA
+							agBtAHAAcwB2AHkAfAB/
+							AIIAhQCIAIsAjgCRAJMA
+							lgCeAKEAogCqAK4AsQDA
+							AMgA0ADTAOIA5QDoAOsA
+							7gDxAPQA9wD6AP0BAAED
+							AQYBDgERASABKAEvATIB
+							OgE+AUYBSQFNAVEBVAFZ
+							AVoBZgFpAW4BbwF3AXoB
+							fwGAAY0BlQGZAZwBqwGu
+							AbEBslUkbnVsbNMADQAO
+							AA8AEAAWABxaTlMub2Jq
+							ZWN0c1dOUy5rZXlzViRj
+							bGFzc6UAEQASABMAFAAV
+							gAeARoBKgE6AVqUAFwAY
+							ABkAGgAbgAKAA4AEgAWA
+							BoBYUmVuUmRlUmVzUm5s
+							UmZy1AAjACQADwAlACYA
+							JwAoAClfEA9OU0F0dHJp
+							YnV0ZUluZm9cTlNBdHRy
+							aWJ1dGVzWE5TU3RyaW5n
+							gEOACYBFgAhvEQGuAEQA
+							ZQB2AGUAbABvAHAAbQBl
+							AG4AdAAKAE0AYQB4ACAA
+							UwBlAGUAbABlAG0AYQBu
+							AG4ACgA8AHMAZQBlAGwA
+							ZQBtAGEAbgBuAEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG0APgAKAAoAQwBv
+							AG4AYwBlAHAAdAAgACYA
+							IABJAG4AdABlAHIAZgBh
+							AGMAZQAKAE0AYQByAGMA
+							dQBzACAARgBlAGgAbgAK
+							ADwAZgBlAGgAbgBAAGIA
+							bAB1AGUALQB0AGUAYwAu
+							AGMAbwBtAD4ACgAKAEEA
+							cABwAGwAaQBjAGEAdABp
+							AG8AbgAgAEkAYwBvAG4A
+							CgBSAG8AbgAgAE0AZQBp
+							AGoAZQByAAoAPABpAG4A
+							ZgBvAHIAbQBhAHQAaQBv
+							AG4AQABzAHQAeQBsAC0A
+							eAAuAGMAbwBtAD4ACgAK
+							AEwAbwBjAGEAbABpAHoA
+							YQB0AGkAbwBuAAoAUwBw
+							AGEAbgBpAHMAaAA6AAoA
+							QQBsAGIAZQByAHQAbwAg
+							AEcAbwBtAGIA4QB1AAoA
+							CgBEAHUAdABjAGgAOgAK
+							AEoAbwBvAHMAdAAgAEQA
+							aQBrAGsAZQByACAASAB1
+							AHAAawBlAHMACgAKAEIA
+							ZQB0AGEAIABUAGUAcwB0
+							AGUAcgBzAAoAUgBpAGMA
+							aABhAHIAZAAgAEwAYQBu
+							AGQAZgBlAHIAbQBhAG4A
+							bgAKAEMAYQByAHMAdABl
+							AG4AIABUAGgAaQBlAGwA
+							ZQAKAEYAcgBpAGUAZABl
+							AHIAaQBrAGUAIABTAGMA
+							aADkAGYAZQByAAoARgBy
+							AGEAbgBrACAAUwB0AGUA
+							bgBnAGUAbAAKAFUAbABs
+							AGEAIABLAGkAbgBlAHQA
+							CgBDAGEAaQBvAAoAQQBu
+							AG4AYQAgAE4AbwBsAGQA
+							ZQAKAE0AYQByAGMAdQBz
+							ACAARgBlAGgAbgAKAE0A
+							YQB4ACAAUwBlAGUAbABl
+							AG0AYQBuAG4ACgAKAFcA
+							ZQBiAHMAaQB0AGUACgBo
+							AHQAdABwADoALwAvAHcA
+							dwB3AC4AYgBsAHUAZQAt
+							AHQAZQBjAC4AYwBvAG0A
+							LwBzAHQAYQBwAGwAZQBy
+							AC8ACgAKAEMAbwBuAHQA
+							YQBjAHQACgBzAHUAcABw
+							AG8AcgB0AEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG3SAA0ADwAsADapAC0A
+							LgAvADAAMQAyADMANAA1
+							gAqAIoAlgCmAKoA5gDyA
+							P4BBgELTAA0ADgAPADgA
+							OwA+ogA5ADqADYAQogA8
+							AD2AC4AMgCFWTlNGb250
+							XxAQTlNQYXJhZ3JhcGhT
+							dHlsZdQAQgBDAA8ARABF
+							AEYARwBIVk5TU2l6ZVZO
+							U05hbWVYTlNmRmxhZ3Mi
+							QTAAAIAOgA8QEF5IZWx2
+							ZXRpY2EtQm9sZNIASwBM
+							AE0AP1gkY2xhc3Nlc1ok
+							Y2xhc3NuYW1logA/AE5Y
+							TlNPYmplY3TUAFAAUQBS
+							AA8AUwBUAFUAVl8QFE5T
+							TGluZUhlaWdodE11bHRp
+							cGxlWk5TVGFiU3RvcHNb
+							TlNBbGlnbm1lbnQiP4zM
+							zYAREASAINIADQAPAFgA
+							ZawAWQBaAFsAXABdAF4A
+							XwBgAGEAYgBjAGSAEoAU
+							gBWAFoAXgBiAGYAagBuA
+							HIAdgB6AH9IAZwAPAGgA
+							aVpOU0xvY2F0aW9uIkHi
+							ZmaAE9IASwBMAGsAbKIA
+							bABOWU5TVGV4dFRhYtIA
+							ZwAPAG4AaSJCYpmagBPS
+							AGcADwBxAGkiQqoAAIAT
+							0gBnAA8AdABpIkLiszOA
+							E9IAZwAPAHcAaSJDDbMz
+							gBPSAGcADwB6AGkiQyoM
+							zYAT0gBnAA8AfQBpIkNG
+							ZmaAE9IAZwAPAIAAaSJD
+							YsAAgBPSAGcADwCDAGki
+							Q38ZmoAT0gBnAA8AhgBp
+							IkONuZqAE9IAZwAPAIkA
+							aSJDm+ZmgBPSAGcADwCM
+							AGkiQ6oTM4AT0gBLAEwA
+							jwCQogCQAE5XTlNBcnJh
+							edIASwBMAJIAQKIAQABO
+							0gBLAEwAlACVogCVAE5c
+							TlNEaWN0aW9uYXJ50wAN
+							AA4ADwCXAJoAPqIAmAA6
+							gCOAEKIAPAA9gAuADIAh
+							1ABCAEMADwBEAEUAnwBH
+							AEiAJIAPWUhlbHZldGlj
+							YdMADQAOAA8AowCmAD6i
+							AKQApYAmgCeiADwAPYAL
+							gAyAIdQAQgBDAA8ARACr
+							AJ8ARwBIIkEQAACAJIAP
+							0wBRAFIADwCvAFUAVoAo
+							gCDSAA0ADwCyAGWsAFkA
+							WgBbAFwAXQBeAF8AYABh
+							AGIAYwBkgBKAFIAVgBaA
+							F4AYgBmAGoAbgByAHYAe
+							gB/TAA0ADgAPAMEAxAA+
+							ogCYAKWAI4AnogA8AD2A
+							C4AMgCHTAA0ADgAPAMkA
+							zAA+ogCYAMuAI4ArogA8
+							AD2AC4AMgCHTAFEAUgAP
+							ANEAVQBWgCyAINIADQAP
+							ANQAZawA1QDWANcA2ADZ
+							ANoA2wDcAN0A3gDfAOCA
+							LYAugC+AMIAxgDKAM4A0
+							gDWANoA3gDiAH9IAZwAP
+							AOMAaSJB4AAAgBPSAGcA
+							DwDmAGkiQmAAAIAT0gBn
+							AA8A6QBpIkKoAACAE9IA
+							ZwAPAOwAaSJC4AAAgBPS
+							AGcADwDvAGkiQwwAAIAT
+							0gBnAA8A8gBpIkMoAACA
+							E9IAZwAPAPUAaSJDRAAA
+							gBPSAGcADwD4AGkiQ2AA
+							AIAT0gBnAA8A+wBpIkN8
+							AACAE9IAZwAPAP4AaSJD
+							jAAAgBPSAGcADwEBAGki
+							Q5oAAIAT0gBnAA8BBABp
+							IkOoAACAE9MADQAOAA8B
+							BwEKAD6iAKQBCYAmgDqi
+							ADwAPYALgAyAIdQAUABR
+							AFIADwBTAQ8AVQBWgDuA
+							INIADQAPARIAZawAWQBa
+							AFsAXABdAF4AXwBgAGEA
+							YgBjAGSAEoAUgBWAFoAX
+							gBiAGYAagBuAHIAdgB6A
+							H9MADQAOAA8BIQEkAD6i
+							AJgBI4AjgD2iADwAPYAL
+							gAyAIdUAUQBSASkADwEq
+							ASsAVQEsAFYBLl8QEk5T
+							V3JpdGluZ0RpcmVjdGlv
+							bl8QFE5TRGVmYXVsdFRh
+							YkludGVydmFsgD4QAYAg
+							IkIQAADSAA0ADwEwAGWg
+							gB/TAA0ADgAPATMBNgA+
+							ogE0ASOAQIA9ogA8AD2A
+							C4AMgCHUAEIAQwAPAEQB
+							OwCfAEcASCJAgAAAgCSA
+							D9MADQAOAA8BPwFCAD6i
+							AKQBI4AmgD2iADwAPYAL
+							gAyAIdIASwBMAUcBSKMB
+							SACQAE5eTlNNdXRhYmxl
+							QXJyYXnSAUoADwFLAUxX
+							TlMuZGF0YU8QPAsADwEY
+							AgEDAQETAA0BEwIBAwEB
+							EQALBBgCAQMBAQwAAQEI
+							BQEBDwYBBwYIFQYBAQwA
+							ewEHACMBBwAVAYBE0gBL
+							AEwBTgFPowFPAVAATl1O
+							U011dGFibGVEYXRhVk5T
+							RGF0YdIASwBMAVIBU6IB
+							UwBOXxASTlNBdHRyaWJ1
+							dGVkU3RyaW5n1AAjACQA
+							DwAlAVUBVgAoAViASYBI
+							gEWAR28RAbQARQBuAHQA
+							dwBpAGMAawBsAHUAbgBn
+							AAoATQBhAHgAIABTAGUA
+							ZQBsAGUAbQBhAG4AbgAK
+							ADwAcwBlAGUAbABlAG0A
+							YQBuAG4AQABiAGwAdQBl
+							AC0AdABlAGMALgBjAG8A
+							bQA+AAoACgBLAG8AbgB6
+							AGUAcAB0ACAAJgAgAEkA
+							bgB0AGUAcgBmAGEAYwBl
+							AAoATQBhAHIAYwB1AHMA
+							IABGAGUAaABuAAoAPABm
+							AGUAaABuAEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0APgAKAAoAUAByAG8A
+							ZwByAGEAbQAgAEkAYwBv
+							AG4ACgBSAG8AbgAgAE0A
+							ZQBpAGoAZQByAAoAPABp
+							AG4AZgBvAHIAbQBhAHQA
+							aQBvAG4AQABzAHQAeQBs
+							AC0AeAAuAGMAbwBtAD4A
+							CgAKAEwAbwBrAGEAbABp
+							AHMAaQBlAHIAdQBuAGcA
+							CgBTAHAAYQBuAGkAcwBj
+							AGgAOgAKAEEAbABiAGUA
+							cgB0AG8AIABHAG8AbQBi
+							AOEAdQAKAAoATgBpAGUA
+							ZABlAHIAbADkAG4AZABp
+							AHMAYwBoADoACgBKAG8A
+							bwBzAHQAIABEAGkAawBr
+							AGUAcgAgAEgAdQBwAGsA
+							ZQBzAAoACgBCAGUAdABh
+							ACAAVABlAHMAdABlAHIA
+							CgBSAGkAYwBoAGEAcgBk
+							ACAATABhAG4AZABmAGUA
+							cgBtAGEAbgBuAAoAQwBh
+							AHIAcwB0AGUAbgAgAFQA
+							aABpAGUAbABlAAoARgBy
+							AGkAZQBkAGUAcgBpAGsA
+							ZQAgAFMAYwBoAOQAZgBl
+							AHIACgBGAHIAYQBuAGsA
+							IABTAHQAZQBuAGcAZQBs
+							AAoAVQBsAGwAYQAgAEsA
+							aQBuAGUAdAAKAEMAYQBp
+							AG8ACgBBAG4AbgBhACAA
+							TgBvAGwAZABlAAoATQBh
+							AHIAYwB1AHMAIABGAGUA
+							aABuAAoATQBhAHgAIABT
+							AGUAZQBsAGUAbQBhAG4A
+							bgAKAAoAVwBlAGIAcwBp
+							AHQAZQAKAGgAdAB0AHAA
+							OgAvAC8AdwB3AHcALgBi
+							AGwAdQBlAC0AdABlAGMA
+							LgBjAG8AbQAvAHMAdABh
+							AHAAbABlAHIALwAKAAoA
+							SwBvAG4AdABhAGsAdAAK
+							AHMAdQBwAHAAbwByAHQA
+							QABiAGwAdQBlAC0AdABl
+							AGMALgBjAG8AbdIADQAP
+							AVsANqkALQAuAC8AMAAx
+							ADIAMwA0ADWACoAigCWA
+							KYAqgDmAPIA/gEGAQtIB
+							SgAPAWcBTE8QPAsADwEY
+							AgEDAQETAA0BEwIBAwEB
+							DQALBBgCAQMBAQ0AAQEJ
+							BQEBDwYBBw8IFQYBAQsA
+							ewEHACMBBwAVAYBE1AAj
+							ACQADwAlAWoBawAoAW2A
+							TYBMgEWAS28RAXMARABl
+							AHMAYQByAHIAbwBsAGwA
+							bwAKAE0AYQB4ACAAUwBl
+							AGUAbABlAG0AYQBuAG4A
+							CgA8AHMAZQBlAGwAZQBt
+							AGEAbgBuAEAAYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0APgAKAAoAQwBvAG4A
+							YwBlAHAAdABvACAAZQAg
+							AGkAbgB0AGUAcgBmAGEA
+							YwBlAAoATQBhAHIAYwB1
+							AHMAIABGAGUAaABuAAoA
+							PABmAGUAaABuAEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG0APgAKAAoASQBj
+							AG8AbgBvACAAZABlACAA
+							bABhACAAYQBwAGwAaQBj
+							AGEAYwBpAPMAbgAKAFIA
+							bwBuACAATQBlAGkAagBl
+							AHIACgA8AGkAbgBmAG8A
+							cgBtAGEAdABpAG8AbgBA
+							AHMAdAB5AGwALQB4AC4A
+							YwBvAG0APgAKAAoAQgBl
+							AHQAYQAgAFQAZQBzAHQA
+							ZQByAHMACgBSAGkAYwBo
+							AGEAcgBkACAATABhAG4A
+							ZABmAGUAcgBtAGEAbgBu
+							AAoAQwBhAHIAcwB0AGUA
+							bgAgAFQAaABpAGUAbABl
+							AAoARgByAGkAZQBkAGUA
+							cgBpAGsAZQAgAFMAYwBo
+							AOQAZgBlAHIACgBGAHIA
+							YQBuAGsAIABTAHQAZQBu
+							AGcAZQBsAAoAVQBsAGwA
+							YQAgAEsAaQBuAGUAdAAK
+							AEMAYQBpAG8ACgBBAG4A
+							bgBhACAATgBvAGwAZABl
+							AAoATQBhAHIAYwB1AHMA
+							IABGAGUAaABuAAoATQBh
+							AHgAIABTAGUAZQBsAGUA
+							bQBhAG4AbgAKAAoAVwBl
+							AGIAcwBpAHQAZQAKAGgA
+							dAB0AHAAOgAvAC8AdwB3
+							AHcALgBiAGwAdQBlAC0A
+							dABlAGMALgBjAG8AbQAv
+							AHMAdABhAHAAbABlAHIA
+							LwAKAAoAQwBvAG4AdABh
+							AGMAdABvAAoAcwB1AHAA
+							cABvAHIAdABAAGIAbAB1
+							AGUALQB0AGUAYwAuAGMA
+							bwBt0gANAA8BcAA2pQAt
+							AC4ALwAwADGACoAigCWA
+							KYAqgELSAUoADwF4AUxP
+							ECoKAA8BGAIBAwEBFAAN
+							ARMCAQMBARcACwQYAgED
+							AQEMAHsBBwAjAQgAFQGA
+							RNQAIwAkAA8AJQF7AXwA
+							KAF+gFWAUIBFgE9vEQGu
+							AE8AbgB0AHcAaQBrAGsA
+							ZQBsAGEAYQByAAoATQBh
+							AHgAIABTAGUAZQBsAGUA
+							bQBhAG4AbgAKADwAcwBl
+							AGUAbABlAG0AYQBuAG4A
+							QABiAGwAdQBlAC0AdABl
+							AGMALgBjAG8AbQA+AAoA
+							CgBDAG8AbgBjAGUAcAB0
+							ACAAJgAgAGkAbgB0AGUA
+							cgBmAGEAYwBlAAoATQBh
+							AHIAYwB1AHMAIABGAGUA
+							aABuAAoAPABmAGUAaABu
+							AEAAYgBsAHUAZQAtAHQA
+							ZQBjAC4AYwBvAG0APgAK
+							AAoAUAByAG8AZwByAGEA
+							bQBtAGEAIABpAGsAbwBv
+							AG4ACgBSAG8AbgAgAE0A
+							ZQBpAGoAZQByAAoAPABp
+							AG4AZgBvAHIAbQBhAHQA
+							aQBvAG4AQABzAHQAeQBs
+							AC0AeAAuAGMAbwBtAD4A
+							CgAKAEwAbwBjAGEAbABp
+							AHoAYQB0AGkAbwBuAAoA
+							UwBwAGEAbgBpAHMAaAA6
+							AAoAQQBsAGIAZQByAHQA
+							bwAgAEcAbwBtAGIA4QB1
+							AAoACgBEAHUAdABjAGgA
+							OgAKAEoAbwBvAHMAdAAg
+							AEQAaQBrAGsAZQByACAA
+							SAB1AHAAawBlAHMACgAK
+							AEIAZQB0AGEAIAB0AGUA
+							cwB0AGUAcgBzAAoAUgBp
+							AGMAaABhAHIAZAAgAEwA
+							YQBuAGQAZgBlAHIAbQBh
+							AG4AbgAKAEMAYQByAHMA
+							dABlAG4AIABUAGgAaQBl
+							AGwAZQAKAEYAcgBpAGUA
+							ZABlAHIAaQBrAGUAIABT
+							AGMAaADkAGYAZQByAAoA
+							RgByAGEAbgBrACAAUwB0
+							AGUAbgBnAGUAbAAKAFUA
+							bABsAGEAIABLAGkAbgBl
+							AHQACgBDAGEAaQBvAAoA
+							QQBuAG4AYQAgAE4AbwBs
+							AGQAZQAKAE0AYQByAGMA
+							dQBzACAARgBlAGgAbgAK
+							AE0AYQB4ACAAUwBlAGUA
+							bABlAG0AYQBuAG4ACgAK
+							AFcAZQBiAHMAaQB0AGUA
+							CgBoAHQAdABwADoALwAv
+							AHcAdwB3AC4AYgBsAHUA
+							ZQAtAHQAZQBjAC4AYwBv
+							AG0ALwBzAHQAYQBwAGwA
+							ZQByAC8ACgAKAEMAbwBu
+							AHQAYQBjAHQACgBzAHUA
+							cABwAG8AcgB0AEAAYgBs
+							AHUAZQAtAHQAZQBjAC4A
+							YwBvAG3SAA0ADwGBADaq
+							AC0BgwAuAC8AMAAxADIA
+							MwA0ADWACoBRgCKAJYAp
+							gCqAOYA8gD+AQYBC0wAN
+							AA4ADwGOAZEAPqIBjwGQ
+							gFKAU6IAPAA9gAuADIAh
+							1ABCAEMADwBEAZYAnwBH
+							AEgiQUAAAIAkgA/UAFAA
+							UQBSAA8AUwGaAFUAVoBU
+							gCDSAA0ADwGdAGWsAFkA
+							WgBbAFwAXQBeAF8AYABh
+							AGIAYwBkgBKAFIAVgBaA
+							F4AYgBmAGoAbgByAHYAe
+							gB/SAUoADwGsAUxPED4M
+							AAEBDgIYAwEEAQITAA0C
+							EwMBBAECEAALBRgDAQQB
+							AgwAAQIIBgECDwcBCAYJ
+							FQcBAgwAewIHACMCBwAV
+							AoBE0gAPACUAKAGwgEWA
+							V1DSAEsATAGzAbSjAbQA
+							lQBOXxATTlNNdXRhYmxl
+							RGljdGlvbmFyeQAIABkA
+							IwAsADEAOgBMAFEAVgBb
+							AF0BEgEYASUBMAE4AT8B
+							SgFMAU4BUAFSAVQBXwFh
+							AWMBZQFnAWkBawFuAXEB
+							dAF3AXoBiwGdAaoBswG1
+							AbcBuQG7BRsFJAU3BTkF
+							OwU9BT8FQQVDBUUFRwVJ
+							BUsFWAVdBV8FYQVmBWgF
+							agVsBXMFhgWXBZ4FpQWu
+							BbMFtQW3BbkFyAXRBdoF
+							5QXqBfMGBAYbBiYGMgY3
+							BjkGOwY9BkYGXwZhBmMG
+							ZQZnBmkGawZtBm8GcQZz
+							BnUGdwZ5BoIGjQaSBpQG
+							nQaiBqwGtQa6BrwGxQbK
+							BswG1QbaBtwG5QbqBuwG
+							9Qb6BvwHBQcKBwwHFQca
+							BxwHJQcqBywHNQc6BzwH
+							RQdKB0wHVQdaB1wHZQdq
+							B3IHeweAB4kHjgebB6gH
+							rQevB7EHtge4B7oHvAfN
+							B88H0QfbB+gH7QfvB/EH
+							9gf4B/oH/AgNCBIIFAgW
+							CCMIJQgnCDAISQhLCE0I
+							TwhRCFMIVQhXCFkIWwhd
+							CF8IYQhjCHAIdQh3CHkI
+							fgiACIIIhAiRCJYImAia
+							CJ8IoQijCKUIsgi0CLYI
+							vwjYCNoI3AjeCOAI4gjk
+							COYI6AjqCOwI7gjwCPII
+							+wkACQIJCwkQCRIJGwkg
+							CSIJKwkwCTIJOwlACUIJ
+							SwlQCVIJWwlgCWIJawlw
+							CXIJewmACYIJiwmQCZIJ
+							mwmgCaIJqwmwCbIJvwnE
+							CcYJyAnNCc8J0QnTCeQJ
+							5gnoCfEKCgoMCg4KEAoS
+							ChQKFgoYChoKHAoeCiAK
+							IgokCjEKNgo4CjoKPwpB
+							CkMKRQpaCm8KhgqICooK
+							jAqRCpoKmwqdCqoKrwqx
+							CrMKuAq6CrwKvgrPCtQK
+							1grYCuUK6grsCu4K8wr1
+							CvcK+QsCCwkLGAshCykL
+							aAtqC3MLeguIC48LmAud
+							C7ILwwvFC8cLyQvLDzcP
+							QA9TD1UPVw9ZD1sPXQ9f
+							D2EPYw9lD2cPcA+vD7EP
+							wg/ED8YPyA/KErQSvRLI
+							EsoSzBLOEtAS0hLUEt0T
+							ChMMEx0THxMhEyMTJRaF
+							Fo4WoxalFqcWqRarFq0W
+							rxaxFrMWtRa3FrkWxhbL
+							Fs0WzxbUFtYW2BbaFusW
+							8BbyFvQXBRcHFwkXEhcr
+							Fy0XLxcxFzMXNRc3FzkX
+							Oxc9Fz8XQRdDF0UXTheP
+							F5EXmhecF54XnxeoF68A
+							AAAAAAACAgAAAAAAAAG1
+							AAAAAAAAAAAAAAAAAAAX
+							xQ==
+							</data>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>name</key>
+					<string>MainMenu.nib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:About Stapler&gt; (oid:58)</string>
+							<key>key</key>
+							<string>About Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Über Stapler</string>
+								<key>en</key>
+								<string>About Stapler</string>
+								<key>es</key>
+								<string>Acerca de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Over Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Add Item&gt; (oid:221)</string>
+							<key>key</key>
+							<string>Add Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt hinzufügen</string>
+								<key>en</key>
+								<string>Add Item</string>
+								<key>es</key>
+								<string>Añadir elemento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voeg toe</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Align Left&gt; (oid:280)</string>
+							<key>key</key>
+							<string>Align Left</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Linksbündig</string>
+								<key>en</key>
+								<string>Align Left</string>
+								<key>es</key>
+								<string>Alinear a la izquierda</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Links uitlijnen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Align Right&gt; (oid:275)</string>
+							<key>key</key>
+							<string>Align Right</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtsbündig</string>
+								<key>en</key>
+								<string>Align Right</string>
+								<key>es</key>
+								<string>Alinear a la derecha</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Rechts uitlijnen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Baseline&gt; (oid:315)</string>
+							<key>key</key>
+							<string>Baseline</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Normal</string>
+								<key>en</key>
+								<string>Baseline</string>
+								<key>es</key>
+								<string>Línea base</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Basislijn</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bigger&gt; (oid:321)</string>
+							<key>key</key>
+							<string>Bigger</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Größer</string>
+								<key>en</key>
+								<string>Bigger</string>
+								<key>es</key>
+								<string>Mayor</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Groter</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bold&gt; (oid:309)</string>
+							<key>key</key>
+							<string>Bold</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fett</string>
+								<key>en</key>
+								<string>Bold</string>
+								<key>es</key>
+								<string>Negrita</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vet</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bring All to Front&gt; (oid:5)</string>
+							<key>key</key>
+							<string>Bring All to Front</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle nach vorne bringen</string>
+								<key>en</key>
+								<string>Bring All to Front</string>
+								<key>es</key>
+								<string>Traer todo al frente</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Alles op voorgrond</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Center&gt; (oid:281)</string>
+							<key>key</key>
+							<string>Center</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zentriert</string>
+								<key>en</key>
+								<string>Center</string>
+								<key>es</key>
+								<string>Centrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Centreer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check Spelling&gt; (oid:189)</string>
+							<key>key</key>
+							<string>Check Spelling</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibprüfung</string>
+								<key>en</key>
+								<string>Check Spelling</string>
+								<key>es</key>
+								<string>Comprobar ortografía</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Controleer spelling</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check Spelling as You Type&gt; (oid:191)</string>
+							<key>key</key>
+							<string>Check Spelling as You Type</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Während der Texteingabe prüfen</string>
+								<key>en</key>
+								<string>Check Spelling as You Type</string>
+								<key>es</key>
+								<string>Comprobar ortografía mientras escribe</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Controleer spelling tijdens typen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Clear Menu&gt; (oid:126)</string>
+							<key>key</key>
+							<string>Clear Menu</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Menü löschen</string>
+								<key>en</key>
+								<string>Clear Menu</string>
+								<key>es</key>
+								<string>Vaciar menu</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Wis menu</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Close&gt; (oid:225)</string>
+							<key>key</key>
+							<string>Close</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schließen</string>
+								<key>en</key>
+								<string>Close</string>
+								<key>es</key>
+								<string>Cerrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Sluit</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy&gt; (oid:157)</string>
+							<key>key</key>
+							<string>Copy</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kopieren</string>
+								<key>en</key>
+								<string>Copy</string>
+								<key>es</key>
+								<string>Copiar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy Ruler&gt; (oid:278)</string>
+							<key>key</key>
+							<string>Copy Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal kopieren</string>
+								<key>en</key>
+								<string>Copy Ruler</string>
+								<key>es</key>
+								<string>Copiar regla</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy Style&gt; (oid:299)</string>
+							<key>key</key>
+							<string>Copy Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stil kopieren</string>
+								<key>en</key>
+								<string>Copy Style</string>
+								<key>es</key>
+								<string>Copiar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer stijl</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Cut&gt; (oid:160)</string>
+							<key>key</key>
+							<string>Cut</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ausschneiden</string>
+								<key>en</key>
+								<string>Cut</string>
+								<key>es</key>
+								<string>Cortar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Knip</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Delete&gt; (oid:164)</string>
+							<key>key</key>
+							<string>Delete</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Löschen</string>
+								<key>en</key>
+								<string>Delete</string>
+								<key>es</key>
+								<string>Borrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Edit&gt; (oid:169)</string>
+							<key>key</key>
+							<string>Edit</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bearbeiten</string>
+								<key>en</key>
+								<string>Edit</string>
+								<key>es</key>
+								<string>Editar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Wijzig</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:File&gt; (oid:83)</string>
+							<key>key</key>
+							<string>File</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ablage</string>
+								<key>en</key>
+								<string>File</string>
+								<key>es</key>
+								<string>Archivo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Archief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Font&gt; (oid:290)</string>
+							<key>key</key>
+							<string>Font</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schrift</string>
+								<key>en</key>
+								<string>Font</string>
+								<key>es</key>
+								<string>Tipografía</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Lettertype</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Format&gt; (oid:230)</string>
+							<key>key</key>
+							<string>Format</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Format</string>
+								<key>en</key>
+								<string>Format</string>
+								<key>es</key>
+								<string>Formato</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Opmaak</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Help&gt; (oid:433)</string>
+							<key>key</key>
+							<string>Help</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hilfe</string>
+								<key>en</key>
+								<string>Help</string>
+								<key>es</key>
+								<string>Ayuda</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Help</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Hide Others&gt; (oid:145)</string>
+							<key>key</key>
+							<string>Hide Others</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Andere ausblenden</string>
+								<key>en</key>
+								<string>Hide Others</string>
+								<key>es</key>
+								<string>Ocultar otros</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verberg andere</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Hide Stapler&gt; (oid:134)</string>
+							<key>key</key>
+							<string>Hide Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler ausblenden</string>
+								<key>en</key>
+								<string>Hide Stapler</string>
+								<key>es</key>
+								<string>Ocultar Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verberg Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Italic&gt; (oid:310)</string>
+							<key>key</key>
+							<string>Italic</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kursiv</string>
+								<key>en</key>
+								<string>Italic</string>
+								<key>es</key>
+								<string>Cursiva</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Cursief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Justify&gt; (oid:274)</string>
+							<key>key</key>
+							<string>Justify</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Blocksatz</string>
+								<key>en</key>
+								<string>Justify</string>
+								<key>es</key>
+								<string>Justificar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vul uit</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Kern&gt; (oid:303)</string>
+							<key>key</key>
+							<string>Kern</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unterschneidungen</string>
+								<key>en</key>
+								<string>Kern</string>
+								<key>es</key>
+								<string>Espacio entre caracteres</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Afspatiëring</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Ligature&gt; (oid:295)</string>
+							<key>key</key>
+							<string>Ligature</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ligaturen</string>
+								<key>en</key>
+								<string>Ligature</string>
+								<key>es</key>
+								<string>Ligadura</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Ligatuur</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Loosen&gt; (oid:304)</string>
+							<key>key</key>
+							<string>Loosen</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Weiter</string>
+								<key>en</key>
+								<string>Loosen</string>
+								<key>es</key>
+								<string>Aumentar espaciado</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Uitgerekt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Lower&gt; (oid:320)</string>
+							<key>key</key>
+							<string>Lower</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Niedriger</string>
+								<key>en</key>
+								<string>Lower</string>
+								<key>es</key>
+								<string>Menor</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Omlaag</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:MainMenu&gt; (oid:29)</string>
+							<key>key</key>
+							<string>MainMenu</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>MainMenu</string>
+								<key>en</key>
+								<string>MainMenu</string>
+								<key>es</key>
+								<string>Menú principal</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Hoofdmenu</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Minimize&gt; (oid:23)</string>
+							<key>key</key>
+							<string>Minimize</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Im Dock ablegen</string>
+								<key>en</key>
+								<string>Minimize</string>
+								<key>es</key>
+								<string>Minimizar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Minimaliseer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:New&gt; (oid:82)</string>
+							<key>key</key>
+							<string>New</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neues Dokument</string>
+								<key>en</key>
+								<string>New</string>
+								<key>es</key>
+								<string>Nuevo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Nieuw</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Open Recent&gt; (oid:125)</string>
+							<key>key</key>
+							<string>Open Recent</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Benutzte Dokumente</string>
+								<key>en</key>
+								<string>Open Recent</string>
+								<key>es</key>
+								<string>Abrir archivo reciente</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Open recente bestanden</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Open…&gt; (oid:72)</string>
+							<key>key</key>
+							<string>Open…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dokument öffnen…</string>
+								<key>en</key>
+								<string>Open…</string>
+								<key>es</key>
+								<string>Abrir...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Open...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste&gt; (oid:171)</string>
+							<key>key</key>
+							<string>Paste</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einsetzen</string>
+								<key>en</key>
+								<string>Paste</string>
+								<key>es</key>
+								<string>Pegar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste Ruler&gt; (oid:279)</string>
+							<key>key</key>
+							<string>Paste Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal einsetzen</string>
+								<key>en</key>
+								<string>Paste Ruler</string>
+								<key>es</key>
+								<string>Pegar regla</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste Style&gt; (oid:308)</string>
+							<key>key</key>
+							<string>Paste Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stil einsetzen</string>
+								<key>en</key>
+								<string>Paste Style</string>
+								<key>es</key>
+								<string>Pegar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak stijl</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste and Match Style&gt; (oid:210)</string>
+							<key>key</key>
+							<string>Paste and Match Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einsetzen und Stil anpassen</string>
+								<key>en</key>
+								<string>Paste and Match Style</string>
+								<key>es</key>
+								<string>Pegar y aplicar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak en pas stijl aan</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Preferences…&gt; (oid:430)</string>
+							<key>key</key>
+							<string>Preferences…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen...</string>
+								<key>en</key>
+								<string>Preferences…</string>
+								<key>es</key>
+								<string>Preferencias...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voorkeuren...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Quit Stapler&gt; (oid:136)</string>
+							<key>key</key>
+							<string>Quit Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler beenden</string>
+								<key>en</key>
+								<string>Quit Stapler</string>
+								<key>es</key>
+								<string>Salir de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stop Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Raise&gt; (oid:317)</string>
+							<key>key</key>
+							<string>Raise</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Höher</string>
+								<key>en</key>
+								<string>Raise</string>
+								<key>es</key>
+								<string>Aumentar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Omhoog</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Redo&gt; (oid:173)</string>
+							<key>key</key>
+							<string>Redo</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiederholen</string>
+								<key>en</key>
+								<string>Redo</string>
+								<key>es</key>
+								<string>Repetir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Opnieuw</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Remove Item&gt; (oid:222)</string>
+							<key>key</key>
+							<string>Remove Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt löschen</string>
+								<key>en</key>
+								<string>Remove Item</string>
+								<key>es</key>
+								<string>Eliminar elemento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Revert&gt; (oid:112)</string>
+							<key>key</key>
+							<string>Revert</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zurück zur letzten Version</string>
+								<key>en</key>
+								<string>Revert</string>
+								<key>es</key>
+								<string>Deshacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Laatst bewaarde versie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Save&gt; (oid:75)</string>
+							<key>key</key>
+							<string>Save</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern</string>
+								<key>en</key>
+								<string>Save</string>
+								<key>es</key>
+								<string>Guardar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Save As…&gt; (oid:80)</string>
+							<key>key</key>
+							<string>Save As…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern unter…</string>
+								<key>en</key>
+								<string>Save As…</string>
+								<key>es</key>
+								<string>Guardar como...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar als...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Select All&gt; (oid:172)</string>
+							<key>key</key>
+							<string>Select All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alles auswählen</string>
+								<key>en</key>
+								<string>Select All</string>
+								<key>es</key>
+								<string>Seleccionar todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Selecteer alles</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Services&gt; (oid:131)</string>
+							<key>key</key>
+							<string>Services</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dienste</string>
+								<key>en</key>
+								<string>Services</string>
+								<key>es</key>
+								<string>Servicios</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Services</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show All&gt; (oid:150)</string>
+							<key>key</key>
+							<string>Show All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle anzeigen</string>
+								<key>en</key>
+								<string>Show All</string>
+								<key>es</key>
+								<string>Mostrar todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon alles</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Colors&gt; (oid:291)</string>
+							<key>key</key>
+							<string>Show Colors</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Farbauswahl einblenden</string>
+								<key>en</key>
+								<string>Show Colors</string>
+								<key>es</key>
+								<string>Mostrar colores</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon kleuren</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Fonts&gt; (oid:301)</string>
+							<key>key</key>
+							<string>Show Fonts</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schriften einblenden</string>
+								<key>en</key>
+								<string>Show Fonts</string>
+								<key>es</key>
+								<string>Mostrar tipografías</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon lettertypen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Ruler&gt; (oid:277)</string>
+							<key>key</key>
+							<string>Show Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal einblenden</string>
+								<key>en</key>
+								<string>Show Ruler</string>
+								<key>es</key>
+								<string>Mostrar reglas</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Smaller&gt; (oid:292)</string>
+							<key>key</key>
+							<string>Smaller</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kleiner</string>
+								<key>en</key>
+								<string>Smaller</string>
+								<key>es</key>
+								<string>Reducir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kleiner</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Speech&gt; (oid:424)</string>
+							<key>key</key>
+							<string>Speech</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sprachausgabe</string>
+								<key>en</key>
+								<string>Speech</string>
+								<key>es</key>
+								<string>Leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Spelling&gt; (oid:185)</string>
+							<key>key</key>
+							<string>Spelling</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibung</string>
+								<key>en</key>
+								<string>Spelling</string>
+								<key>es</key>
+								<string>Deletrear</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spelling</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Spelling…&gt; (oid:187)</string>
+							<key>key</key>
+							<string>Spelling…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibung...</string>
+								<key>en</key>
+								<string>Spelling…</string>
+								<key>es</key>
+								<string>Deletrear...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spelling...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Stapler&gt; (oid:57)</string>
+							<key>key</key>
+							<string>Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler</string>
+								<key>en</key>
+								<string>Stapler</string>
+								<key>es</key>
+								<string>Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Stapler Help&gt; (oid:434)</string>
+							<key>key</key>
+							<string>Stapler Help</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler Hilfe</string>
+								<key>en</key>
+								<string>Stapler Help</string>
+								<key>es</key>
+								<string>Ayuda de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler help</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Start Speaking&gt; (oid:425)</string>
+							<key>key</key>
+							<string>Start Speaking</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Vorlesen beginnen</string>
+								<key>en</key>
+								<string>Start Speaking</string>
+								<key>es</key>
+								<string>Empezar a leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Start spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Stop Speaking&gt; (oid:426)</string>
+							<key>key</key>
+							<string>Stop Speaking</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Vorlesen beenden</string>
+								<key>en</key>
+								<string>Stop Speaking</string>
+								<key>es</key>
+								<string>Parar de leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stop spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Subscript&gt; (oid:318)</string>
+							<key>key</key>
+							<string>Subscript</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Tiefgestellt</string>
+								<key>en</key>
+								<string>Subscript</string>
+								<key>es</key>
+								<string>Inferior</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Subscript</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Superscript&gt; (oid:316)</string>
+							<key>key</key>
+							<string>Superscript</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hochgestellt</string>
+								<key>en</key>
+								<string>Superscript</string>
+								<key>es</key>
+								<string>Superior</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Superscript</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Text&gt; (oid:273)</string>
+							<key>key</key>
+							<string>Text</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Text</string>
+								<key>en</key>
+								<string>Text</string>
+								<key>es</key>
+								<string>Texto</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Tekst</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Tighten&gt; (oid:307)</string>
+							<key>key</key>
+							<string>Tighten</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Enger</string>
+								<key>en</key>
+								<string>Tighten</string>
+								<key>es</key>
+								<string>Disminuir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Versmald</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Underline&gt; (oid:311)</string>
+							<key>key</key>
+							<string>Underline</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unterstrichen</string>
+								<key>en</key>
+								<string>Underline</string>
+								<key>es</key>
+								<string>Subrayado</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Onderstreep</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Undo&gt; (oid:158)</string>
+							<key>key</key>
+							<string>Undo</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Widerrufen</string>
+								<key>en</key>
+								<string>Undo</string>
+								<key>es</key>
+								<string>Deshacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Herstel</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use All&gt; (oid:298)</string>
+							<key>key</key>
+							<string>Use All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle verwenden</string>
+								<key>en</key>
+								<string>Use All</string>
+								<key>es</key>
+								<string>Todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik alle</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use Default&gt; (oid:319)</string>
+							<key>key</key>
+							<string>Use Default</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Normal</string>
+								<key>en</key>
+								<string>Use Default</string>
+								<key>es</key>
+								<string>Por defecto</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik standard</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use None&gt; (oid:305)</string>
+							<key>key</key>
+							<string>Use None</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nicht verwenden</string>
+								<key>en</key>
+								<string>Use None</string>
+								<key>es</key>
+								<string>Ninguno</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik geen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Window&gt; (oid:24)</string>
+							<key>key</key>
+							<string>Window</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fenster</string>
+								<key>en</key>
+								<string>Window</string>
+								<key>es</key>
+								<string>Ventana</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Venster</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Zoom&gt; (oid:203)</string>
+							<key>key</key>
+							<string>Zoom</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zoomen</string>
+								<key>en</key>
+								<string>Zoom</string>
+								<key>es</key>
+								<string>Zoom</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vergroot/verklein</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check for Updates...&gt; (oid:214)</string>
+							<key>key</key>
+							<string>Check for Updates...</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach Updates suchen...</string>
+								<key>en</key>
+								<string>Check for Updates...</string>
+								<key>es</key>
+								<string>Comprobar actualizaciones...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Zoek naar updates...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse&gt; (oid:451)</string>
+							<key>key</key>
+							<string>Collapse</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einklappen</string>
+								<key>en</key>
+								<string>Collapse</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse All&gt; (oid:474)</string>
+							<key>key</key>
+							<string>Collapse All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle einklappen</string>
+								<key>en</key>
+								<string>Collapse All</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Item&gt; (oid:438)</string>
+							<key>key</key>
+							<string>Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt</string>
+								<key>en</key>
+								<string>Item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Down&gt; (oid:479)</string>
+							<key>key</key>
+							<string>Move Down</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach unten bewegen</string>
+								<key>en</key>
+								<string>Move Down</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move End&gt; (oid:481)</string>
+							<key>key</key>
+							<string>Move End</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ans Ende bewegen</string>
+								<key>en</key>
+								<string>Move End</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Top&gt; (oid:477)</string>
+							<key>key</key>
+							<string>Move Top</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>An den Anfang bewegen</string>
+								<key>en</key>
+								<string>Move Top</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Up&gt; (oid:480)</string>
+							<key>key</key>
+							<string>Move Up</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach oben bewegen</string>
+								<key>en</key>
+								<string>Move Up</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Uncollapse&gt; (oid:457)</string>
+							<key>key</key>
+							<string>Uncollapse</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ausklappen</string>
+								<key>en</key>
+								<string>Uncollapse</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Uncollapse All&gt; (oid:475)</string>
+							<key>key</key>
+							<string>Uncollapse All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle ausklappen</string>
+								<key>en</key>
+								<string>Uncollapse All</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse All Done&gt; (oid:490)</string>
+							<key>key</key>
+							<string>Collapse All Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle erledigten einklappen</string>
+								<key>en</key>
+								<string>Collapse All Done</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Page Setup…&gt; (oid:512)</string>
+							<key>key</key>
+							<string>Page Setup…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Papierformat…</string>
+								<key>en</key>
+								<string>Page Setup…</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Print…&gt; (oid:513)</string>
+							<key>key</key>
+							<string>Print…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Drucken…</string>
+								<key>en</key>
+								<string>Print…</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:About Stapler&gt; (oid:58)</string>
+							<key>key</key>
+							<string>About Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Über Stapler</string>
+								<key>en</key>
+								<string>About Stapler</string>
+								<key>es</key>
+								<string>Acerca de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Over Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Add Item&gt; (oid:221)</string>
+							<key>key</key>
+							<string>Add Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt hinzufügen</string>
+								<key>en</key>
+								<string>Add Item</string>
+								<key>es</key>
+								<string>Añadir elemento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voeg toe</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Align Left&gt; (oid:280)</string>
+							<key>key</key>
+							<string>Align Left</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Linksbündig</string>
+								<key>en</key>
+								<string>Align Left</string>
+								<key>es</key>
+								<string>Alinear a la izquierda</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Links uitlijnen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Align Right&gt; (oid:275)</string>
+							<key>key</key>
+							<string>Align Right</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtsbündig</string>
+								<key>en</key>
+								<string>Align Right</string>
+								<key>es</key>
+								<string>Alinear a la derecha</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Rechts uitlijnen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Baseline&gt; (oid:315)</string>
+							<key>key</key>
+							<string>Baseline</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Normal</string>
+								<key>en</key>
+								<string>Baseline</string>
+								<key>es</key>
+								<string>Línea base</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Basislijn</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bigger&gt; (oid:321)</string>
+							<key>key</key>
+							<string>Bigger</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Größer</string>
+								<key>en</key>
+								<string>Bigger</string>
+								<key>es</key>
+								<string>Mayor</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Groter</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bold&gt; (oid:309)</string>
+							<key>key</key>
+							<string>Bold</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fett</string>
+								<key>en</key>
+								<string>Bold</string>
+								<key>es</key>
+								<string>Negrita</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vet</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Bring All to Front&gt; (oid:5)</string>
+							<key>key</key>
+							<string>Bring All to Front</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle nach vorne bringen</string>
+								<key>en</key>
+								<string>Bring All to Front</string>
+								<key>es</key>
+								<string>Traer todo al frente</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Alles op voorgrond</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Center&gt; (oid:281)</string>
+							<key>key</key>
+							<string>Center</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zentriert</string>
+								<key>en</key>
+								<string>Center</string>
+								<key>es</key>
+								<string>Centrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Centreer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check Spelling&gt; (oid:189)</string>
+							<key>key</key>
+							<string>Check Spelling</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibprüfung</string>
+								<key>en</key>
+								<string>Check Spelling</string>
+								<key>es</key>
+								<string>Comprobar ortografía</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Controleer spelling</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check Spelling as You Type&gt; (oid:191)</string>
+							<key>key</key>
+							<string>Check Spelling as You Type</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Während der Texteingabe prüfen</string>
+								<key>en</key>
+								<string>Check Spelling as You Type</string>
+								<key>es</key>
+								<string>Comprobar ortografía mientras escribe</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Controleer spelling tijdens typen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Clear Menu&gt; (oid:126)</string>
+							<key>key</key>
+							<string>Clear Menu</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Menü löschen</string>
+								<key>en</key>
+								<string>Clear Menu</string>
+								<key>es</key>
+								<string>Vaciar menu</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Wis menu</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Close&gt; (oid:225)</string>
+							<key>key</key>
+							<string>Close</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schließen</string>
+								<key>en</key>
+								<string>Close</string>
+								<key>es</key>
+								<string>Cerrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Sluit</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy&gt; (oid:157)</string>
+							<key>key</key>
+							<string>Copy</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kopieren</string>
+								<key>en</key>
+								<string>Copy</string>
+								<key>es</key>
+								<string>Copiar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy Ruler&gt; (oid:278)</string>
+							<key>key</key>
+							<string>Copy Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal kopieren</string>
+								<key>en</key>
+								<string>Copy Ruler</string>
+								<key>es</key>
+								<string>Copiar regla</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Copy Style&gt; (oid:299)</string>
+							<key>key</key>
+							<string>Copy Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stil kopieren</string>
+								<key>en</key>
+								<string>Copy Style</string>
+								<key>es</key>
+								<string>Copiar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kopieer stijl</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Cut&gt; (oid:160)</string>
+							<key>key</key>
+							<string>Cut</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ausschneiden</string>
+								<key>en</key>
+								<string>Cut</string>
+								<key>es</key>
+								<string>Cortar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Knip</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Delete&gt; (oid:164)</string>
+							<key>key</key>
+							<string>Delete</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Löschen</string>
+								<key>en</key>
+								<string>Delete</string>
+								<key>es</key>
+								<string>Borrar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Edit&gt; (oid:169)</string>
+							<key>key</key>
+							<string>Edit</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bearbeiten</string>
+								<key>en</key>
+								<string>Edit</string>
+								<key>es</key>
+								<string>Editar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Wijzig</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:File&gt; (oid:83)</string>
+							<key>key</key>
+							<string>File</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ablage</string>
+								<key>en</key>
+								<string>File</string>
+								<key>es</key>
+								<string>Archivo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Archief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Font&gt; (oid:290)</string>
+							<key>key</key>
+							<string>Font</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schrift</string>
+								<key>en</key>
+								<string>Font</string>
+								<key>es</key>
+								<string>Tipografía</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Lettertype</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Format&gt; (oid:230)</string>
+							<key>key</key>
+							<string>Format</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Format</string>
+								<key>en</key>
+								<string>Format</string>
+								<key>es</key>
+								<string>Formato</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Opmaak</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Help&gt; (oid:433)</string>
+							<key>key</key>
+							<string>Help</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hilfe</string>
+								<key>en</key>
+								<string>Help</string>
+								<key>es</key>
+								<string>Ayuda</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Help</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Hide Others&gt; (oid:145)</string>
+							<key>key</key>
+							<string>Hide Others</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Andere ausblenden</string>
+								<key>en</key>
+								<string>Hide Others</string>
+								<key>es</key>
+								<string>Ocultar otros</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verberg andere</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Hide Stapler&gt; (oid:134)</string>
+							<key>key</key>
+							<string>Hide Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler ausblenden</string>
+								<key>en</key>
+								<string>Hide Stapler</string>
+								<key>es</key>
+								<string>Ocultar Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verberg Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Italic&gt; (oid:310)</string>
+							<key>key</key>
+							<string>Italic</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kursiv</string>
+								<key>en</key>
+								<string>Italic</string>
+								<key>es</key>
+								<string>Cursiva</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Cursief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Justify&gt; (oid:274)</string>
+							<key>key</key>
+							<string>Justify</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Blocksatz</string>
+								<key>en</key>
+								<string>Justify</string>
+								<key>es</key>
+								<string>Justificar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vul uit</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Kern&gt; (oid:303)</string>
+							<key>key</key>
+							<string>Kern</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unterschneidungen</string>
+								<key>en</key>
+								<string>Kern</string>
+								<key>es</key>
+								<string>Espacio entre caracteres</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Afspatiëring</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Ligature&gt; (oid:295)</string>
+							<key>key</key>
+							<string>Ligature</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ligaturen</string>
+								<key>en</key>
+								<string>Ligature</string>
+								<key>es</key>
+								<string>Ligadura</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Ligatuur</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Loosen&gt; (oid:304)</string>
+							<key>key</key>
+							<string>Loosen</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Weiter</string>
+								<key>en</key>
+								<string>Loosen</string>
+								<key>es</key>
+								<string>Aumentar espaciado</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Uitgerekt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Lower&gt; (oid:320)</string>
+							<key>key</key>
+							<string>Lower</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Niedriger</string>
+								<key>en</key>
+								<string>Lower</string>
+								<key>es</key>
+								<string>Menor</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Omlaag</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:MainMenu&gt; (oid:29)</string>
+							<key>key</key>
+							<string>MainMenu</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>MainMenu</string>
+								<key>en</key>
+								<string>MainMenu</string>
+								<key>es</key>
+								<string>Menú principal</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Hoofdmenu</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Minimize&gt; (oid:23)</string>
+							<key>key</key>
+							<string>Minimize</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Im Dock ablegen</string>
+								<key>en</key>
+								<string>Minimize</string>
+								<key>es</key>
+								<string>Minimizar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Minimaliseer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:New&gt; (oid:82)</string>
+							<key>key</key>
+							<string>New</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neues Dokument</string>
+								<key>en</key>
+								<string>New</string>
+								<key>es</key>
+								<string>Nuevo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Nieuw</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Open Recent&gt; (oid:125)</string>
+							<key>key</key>
+							<string>Open Recent</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Benutzte Dokumente</string>
+								<key>en</key>
+								<string>Open Recent</string>
+								<key>es</key>
+								<string>Abrir archivo reciente</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Open recente bestanden</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Open…&gt; (oid:72)</string>
+							<key>key</key>
+							<string>Open…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dokument öffnen…</string>
+								<key>en</key>
+								<string>Open…</string>
+								<key>es</key>
+								<string>Abrir...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Open...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste&gt; (oid:171)</string>
+							<key>key</key>
+							<string>Paste</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einsetzen</string>
+								<key>en</key>
+								<string>Paste</string>
+								<key>es</key>
+								<string>Pegar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste Ruler&gt; (oid:279)</string>
+							<key>key</key>
+							<string>Paste Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal einsetzen</string>
+								<key>en</key>
+								<string>Paste Ruler</string>
+								<key>es</key>
+								<string>Pegar regla</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste Style&gt; (oid:308)</string>
+							<key>key</key>
+							<string>Paste Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stil einsetzen</string>
+								<key>en</key>
+								<string>Paste Style</string>
+								<key>es</key>
+								<string>Pegar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak stijl</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Paste and Match Style&gt; (oid:210)</string>
+							<key>key</key>
+							<string>Paste and Match Style</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einsetzen und Stil anpassen</string>
+								<key>en</key>
+								<string>Paste and Match Style</string>
+								<key>es</key>
+								<string>Pegar y aplicar estilo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Plak en pas stijl aan</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Preferences…&gt; (oid:430)</string>
+							<key>key</key>
+							<string>Preferences…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen...</string>
+								<key>en</key>
+								<string>Preferences…</string>
+								<key>es</key>
+								<string>Preferencias...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voorkeuren...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Quit Stapler&gt; (oid:136)</string>
+							<key>key</key>
+							<string>Quit Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler beenden</string>
+								<key>en</key>
+								<string>Quit Stapler</string>
+								<key>es</key>
+								<string>Salir de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stop Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Raise&gt; (oid:317)</string>
+							<key>key</key>
+							<string>Raise</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Höher</string>
+								<key>en</key>
+								<string>Raise</string>
+								<key>es</key>
+								<string>Aumentar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Omhoog</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Redo&gt; (oid:173)</string>
+							<key>key</key>
+							<string>Redo</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiederholen</string>
+								<key>en</key>
+								<string>Redo</string>
+								<key>es</key>
+								<string>Repetir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Opnieuw</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Remove Item&gt; (oid:222)</string>
+							<key>key</key>
+							<string>Remove Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt löschen</string>
+								<key>en</key>
+								<string>Remove Item</string>
+								<key>es</key>
+								<string>Eliminar elemento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Revert&gt; (oid:112)</string>
+							<key>key</key>
+							<string>Revert</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zurück zur letzten Version</string>
+								<key>en</key>
+								<string>Revert</string>
+								<key>es</key>
+								<string>Deshacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Laatst bewaarde versie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Save&gt; (oid:75)</string>
+							<key>key</key>
+							<string>Save</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern</string>
+								<key>en</key>
+								<string>Save</string>
+								<key>es</key>
+								<string>Guardar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Save As…&gt; (oid:80)</string>
+							<key>key</key>
+							<string>Save As…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern unter…</string>
+								<key>en</key>
+								<string>Save As…</string>
+								<key>es</key>
+								<string>Guardar como...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar als...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Select All&gt; (oid:172)</string>
+							<key>key</key>
+							<string>Select All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alles auswählen</string>
+								<key>en</key>
+								<string>Select All</string>
+								<key>es</key>
+								<string>Seleccionar todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Selecteer alles</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Services&gt; (oid:131)</string>
+							<key>key</key>
+							<string>Services</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dienste</string>
+								<key>en</key>
+								<string>Services</string>
+								<key>es</key>
+								<string>Servicios</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Services</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show All&gt; (oid:150)</string>
+							<key>key</key>
+							<string>Show All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle anzeigen</string>
+								<key>en</key>
+								<string>Show All</string>
+								<key>es</key>
+								<string>Mostrar todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon alles</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Colors&gt; (oid:291)</string>
+							<key>key</key>
+							<string>Show Colors</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Farbauswahl einblenden</string>
+								<key>en</key>
+								<string>Show Colors</string>
+								<key>es</key>
+								<string>Mostrar colores</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon kleuren</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Fonts&gt; (oid:301)</string>
+							<key>key</key>
+							<string>Show Fonts</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schriften einblenden</string>
+								<key>en</key>
+								<string>Show Fonts</string>
+								<key>es</key>
+								<string>Mostrar tipografías</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon lettertypen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Show Ruler&gt; (oid:277)</string>
+							<key>key</key>
+							<string>Show Ruler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lineal einblenden</string>
+								<key>en</key>
+								<string>Show Ruler</string>
+								<key>es</key>
+								<string>Mostrar reglas</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toon liniaal</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Smaller&gt; (oid:292)</string>
+							<key>key</key>
+							<string>Smaller</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kleiner</string>
+								<key>en</key>
+								<string>Smaller</string>
+								<key>es</key>
+								<string>Reducir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Kleiner</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Speech&gt; (oid:424)</string>
+							<key>key</key>
+							<string>Speech</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sprachausgabe</string>
+								<key>en</key>
+								<string>Speech</string>
+								<key>es</key>
+								<string>Leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Spelling&gt; (oid:185)</string>
+							<key>key</key>
+							<string>Spelling</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibung</string>
+								<key>en</key>
+								<string>Spelling</string>
+								<key>es</key>
+								<string>Deletrear</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spelling</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Spelling…&gt; (oid:187)</string>
+							<key>key</key>
+							<string>Spelling…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Rechtschreibung...</string>
+								<key>en</key>
+								<string>Spelling…</string>
+								<key>es</key>
+								<string>Deletrear...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Spelling...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Stapler&gt; (oid:57)</string>
+							<key>key</key>
+							<string>Stapler</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler</string>
+								<key>en</key>
+								<string>Stapler</string>
+								<key>es</key>
+								<string>Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Stapler Help&gt; (oid:434)</string>
+							<key>key</key>
+							<string>Stapler Help</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler Hilfe</string>
+								<key>en</key>
+								<string>Stapler Help</string>
+								<key>es</key>
+								<string>Ayuda de Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler help</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Start Speaking&gt; (oid:425)</string>
+							<key>key</key>
+							<string>Start Speaking</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Vorlesen beginnen</string>
+								<key>en</key>
+								<string>Start Speaking</string>
+								<key>es</key>
+								<string>Empezar a leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Start spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Stop Speaking&gt; (oid:426)</string>
+							<key>key</key>
+							<string>Stop Speaking</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Vorlesen beenden</string>
+								<key>en</key>
+								<string>Stop Speaking</string>
+								<key>es</key>
+								<string>Parar de leer en voz alta</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stop spraakfunctie</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Subscript&gt; (oid:318)</string>
+							<key>key</key>
+							<string>Subscript</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Tiefgestellt</string>
+								<key>en</key>
+								<string>Subscript</string>
+								<key>es</key>
+								<string>Inferior</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Subscript</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Superscript&gt; (oid:316)</string>
+							<key>key</key>
+							<string>Superscript</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hochgestellt</string>
+								<key>en</key>
+								<string>Superscript</string>
+								<key>es</key>
+								<string>Superior</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Superscript</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Text&gt; (oid:273)</string>
+							<key>key</key>
+							<string>Text</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Text</string>
+								<key>en</key>
+								<string>Text</string>
+								<key>es</key>
+								<string>Texto</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Tekst</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Tighten&gt; (oid:307)</string>
+							<key>key</key>
+							<string>Tighten</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Enger</string>
+								<key>en</key>
+								<string>Tighten</string>
+								<key>es</key>
+								<string>Disminuir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Versmald</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Underline&gt; (oid:311)</string>
+							<key>key</key>
+							<string>Underline</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unterstrichen</string>
+								<key>en</key>
+								<string>Underline</string>
+								<key>es</key>
+								<string>Subrayado</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Onderstreep</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Undo&gt; (oid:158)</string>
+							<key>key</key>
+							<string>Undo</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Widerrufen</string>
+								<key>en</key>
+								<string>Undo</string>
+								<key>es</key>
+								<string>Deshacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Herstel</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use All&gt; (oid:298)</string>
+							<key>key</key>
+							<string>Use All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle verwenden</string>
+								<key>en</key>
+								<string>Use All</string>
+								<key>es</key>
+								<string>Todo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik alle</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use Default&gt; (oid:319)</string>
+							<key>key</key>
+							<string>Use Default</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Normal</string>
+								<key>en</key>
+								<string>Use Default</string>
+								<key>es</key>
+								<string>Por defecto</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik standard</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Use None&gt; (oid:305)</string>
+							<key>key</key>
+							<string>Use None</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nicht verwenden</string>
+								<key>en</key>
+								<string>Use None</string>
+								<key>es</key>
+								<string>Ninguno</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gebruik geen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Window&gt; (oid:24)</string>
+							<key>key</key>
+							<string>Window</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fenster</string>
+								<key>en</key>
+								<string>Window</string>
+								<key>es</key>
+								<string>Ventana</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Venster</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Zoom&gt; (oid:203)</string>
+							<key>key</key>
+							<string>Zoom</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zoomen</string>
+								<key>en</key>
+								<string>Zoom</string>
+								<key>es</key>
+								<string>Zoom</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Vergroot/verklein</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Check for Updates...&gt; (oid:214)</string>
+							<key>key</key>
+							<string>Check for Updates...</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach Updates suchen...</string>
+								<key>en</key>
+								<string>Check for Updates...</string>
+								<key>es</key>
+								<string>Comprobar actualizaciones...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Zoek naar updates...</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse&gt; (oid:451)</string>
+							<key>key</key>
+							<string>Collapse</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einklappen</string>
+								<key>en</key>
+								<string>Collapse</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse All&gt; (oid:474)</string>
+							<key>key</key>
+							<string>Collapse All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle einklappen</string>
+								<key>en</key>
+								<string>Collapse All</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:Item&gt; (oid:438)</string>
+							<key>key</key>
+							<string>Item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Objekt</string>
+								<key>en</key>
+								<string>Item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Down&gt; (oid:479)</string>
+							<key>key</key>
+							<string>Move Down</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach unten bewegen</string>
+								<key>en</key>
+								<string>Move Down</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move End&gt; (oid:481)</string>
+							<key>key</key>
+							<string>Move End</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ans Ende bewegen</string>
+								<key>en</key>
+								<string>Move End</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Top&gt; (oid:477)</string>
+							<key>key</key>
+							<string>Move Top</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>An den Anfang bewegen</string>
+								<key>en</key>
+								<string>Move Top</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Move Up&gt; (oid:480)</string>
+							<key>key</key>
+							<string>Move Up</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nach oben bewegen</string>
+								<key>en</key>
+								<string>Move Up</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Uncollapse&gt; (oid:457)</string>
+							<key>key</key>
+							<string>Uncollapse</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ausklappen</string>
+								<key>en</key>
+								<string>Uncollapse</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Uncollapse All&gt; (oid:475)</string>
+							<key>key</key>
+							<string>Uncollapse All</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle ausklappen</string>
+								<key>en</key>
+								<string>Uncollapse All</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Collapse All Done&gt; (oid:490)</string>
+							<key>key</key>
+							<string>Collapse All Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle erledigten einklappen</string>
+								<key>en</key>
+								<string>Collapse All Done</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Page Setup…&gt; (oid:512)</string>
+							<key>key</key>
+							<string>Page Setup…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Papierformat…</string>
+								<key>en</key>
+								<string>Page Setup…</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:Print…&gt; (oid:513)</string>
+							<key>key</key>
+							<string>Print…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Drucken…</string>
+								<key>en</key>
+								<string>Print…</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>name</key>
+					<string>Document.nib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton ( Select…) : &lt;title: Select…&gt; (oid:36)</string>
+							<key>key</key>
+							<string> Select…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schrift...</string>
+								<key>en</key>
+								<string> Select…</string>
+								<key>es</key>
+								<string>Seleccionar...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Selecteer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSNibBindingConnector : &lt;title:%{value1}@ %{value2}@pt&gt; (oid:55)</string>
+							<key>key</key>
+							<string>%{value1}@ %{value2}@pt</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>en</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>es</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>%{value1}@ %{value2}@pt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Active) : &lt;title:Active&gt; (oid:39)</string>
+							<key>key</key>
+							<string>Active</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Aktiv</string>
+								<key>en</key>
+								<string>Active</string>
+								<key>es</key>
+								<string>Activo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Actief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Background) : &lt;title:Background&gt; (oid:30)</string>
+							<key>key</key>
+							<string>Background</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hintergrund</string>
+								<key>en</key>
+								<string>Background</string>
+								<key>es</key>
+								<string>Detrás</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Achtergrond</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSPanel (Document Preferences) : &lt;title:Document Preferences&gt; (oid:25)</string>
+							<key>key</key>
+							<string>Document Preferences</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dokument Eintellungen</string>
+								<key>en</key>
+								<string>Document Preferences</string>
+								<key>es</key>
+								<string>Preferencias de documento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Document voorkeuren</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Done) : &lt;title:Done&gt; (oid:33)</string>
+							<key>key</key>
+							<string>Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt</string>
+								<key>en</key>
+								<string>Done</string>
+								<key>es</key>
+								<string>Hecho</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gereed</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Item Colors:) : &lt;title:Item Colors:&gt; (oid:35)</string>
+							<key>key</key>
+							<string>Item Colors:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Farben:</string>
+								<key>en</key>
+								<string>Item Colors:</string>
+								<key>es</key>
+								<string>Colores del elemento:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voorwerp kleuren:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Lucida Grande 11pt) : &lt;title:Lucida Grande 11pt&gt; (oid:28)</string>
+							<key>key</key>
+							<string>Lucida Grande 11pt</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lucida Grande 11pt</string>
+								<key>en</key>
+								<string>Lucida Grande 11pt</string>
+								<key>es</key>
+								<string>Lucida Grande 11pt</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Lucida Grande 11pt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSWindow (New Document) : &lt;title:New Document&gt; (oid:5)</string>
+							<key>key</key>
+							<string>New Document</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neues Dokument</string>
+								<key>en</key>
+								<string>New Document</string>
+								<key>es</key>
+								<string>Documento nuevo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Nieuw document</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Standard Font:) : &lt;title:Standard Font:&gt; (oid:27)</string>
+							<key>key</key>
+							<string>Standard Font:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Standardschrift:</string>
+								<key>en</key>
+								<string>Standard Font:</string>
+								<key>es</key>
+								<string>Tipografía estándar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Standaard lettertype</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (To-do) : &lt;title:To-do&gt; (oid:29)</string>
+							<key>key</key>
+							<string>To-do</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nicht erledigt</string>
+								<key>en</key>
+								<string>To-do</string>
+								<key>es</key>
+								<string>Para hacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>To-do</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Add new items) : &lt;title:Add new items&gt; (oid:60)</string>
+							<key>key</key>
+							<string>Add new items</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neue Objekte einfügen:</string>
+								<key>en</key>
+								<string>Add new items</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Behaviour:) : &lt;title:Behaviour:&gt; (oid:58)</string>
+							<key>key</key>
+							<string>Behaviour:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Verhalten:</string>
+								<key>en</key>
+								<string>Behaviour:</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Done Active) : &lt;title:Done Active&gt; (oid:57)</string>
+							<key>key</key>
+							<string>Done Active</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt Aktiv</string>
+								<key>en</key>
+								<string>Done Active</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton (Move done items to the end of the list) : &lt;title:Move done items to the end of the list&gt; (oid:59)</string>
+							<key>key</key>
+							<string>Move done items to the end of the list</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigte Objekte ans Ende bewegen</string>
+								<key>en</key>
+								<string>Move done items to the end of the list</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:OtherViews&gt; (oid:62)</string>
+							<key>key</key>
+							<string>OtherViews</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>OtherViews</string>
+								<key>en</key>
+								<string>OtherViews</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:above the selected item&gt; (oid:65)</string>
+							<key>key</key>
+							<string>above the selected item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>über dem aktuellen</string>
+								<key>en</key>
+								<string>above the selected item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:at the beginning&gt; (oid:64)</string>
+							<key>key</key>
+							<string>at the beginning</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>am Anfang</string>
+								<key>en</key>
+								<string>at the beginning</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:at the end&gt; (oid:66)</string>
+							<key>key</key>
+							<string>at the end</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>am Ende</string>
+								<key>en</key>
+								<string>at the end</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:below the selected item&gt; (oid:63)</string>
+							<key>key</key>
+							<string>below the selected item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>unter dem aktuellen</string>
+								<key>en</key>
+								<string>below the selected item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton ( Select…) : &lt;title: Select…&gt; (oid:36)</string>
+							<key>key</key>
+							<string> Select…</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schrift...</string>
+								<key>en</key>
+								<string> Select…</string>
+								<key>es</key>
+								<string>Seleccionar...</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Selecteer</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSNibBindingConnector : &lt;title:%{value1}@ %{value2}@pt&gt; (oid:55)</string>
+							<key>key</key>
+							<string>%{value1}@ %{value2}@pt</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>en</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>es</key>
+								<string>%{value1}@ %{value2}@pt</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>%{value1}@ %{value2}@pt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Active) : &lt;title:Active&gt; (oid:39)</string>
+							<key>key</key>
+							<string>Active</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Aktiv</string>
+								<key>en</key>
+								<string>Active</string>
+								<key>es</key>
+								<string>Activo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Actief</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Background) : &lt;title:Background&gt; (oid:30)</string>
+							<key>key</key>
+							<string>Background</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hintergrund</string>
+								<key>en</key>
+								<string>Background</string>
+								<key>es</key>
+								<string>Detrás</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Achtergrond</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSPanel (Document Preferences) : &lt;title:Document Preferences&gt; (oid:25)</string>
+							<key>key</key>
+							<string>Document Preferences</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dokument Eintellungen</string>
+								<key>en</key>
+								<string>Document Preferences</string>
+								<key>es</key>
+								<string>Preferencias de documento</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Document voorkeuren</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Done) : &lt;title:Done&gt; (oid:33)</string>
+							<key>key</key>
+							<string>Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt</string>
+								<key>en</key>
+								<string>Done</string>
+								<key>es</key>
+								<string>Hecho</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gereed</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Item Colors:) : &lt;title:Item Colors:&gt; (oid:35)</string>
+							<key>key</key>
+							<string>Item Colors:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Farben:</string>
+								<key>en</key>
+								<string>Item Colors:</string>
+								<key>es</key>
+								<string>Colores del elemento:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Voorwerp kleuren:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Lucida Grande 11pt) : &lt;title:Lucida Grande 11pt&gt; (oid:28)</string>
+							<key>key</key>
+							<string>Lucida Grande 11pt</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lucida Grande 11pt</string>
+								<key>en</key>
+								<string>Lucida Grande 11pt</string>
+								<key>es</key>
+								<string>Lucida Grande 11pt</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Lucida Grande 11pt</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSWindow (New Document) : &lt;title:New Document&gt; (oid:5)</string>
+							<key>key</key>
+							<string>New Document</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neues Dokument</string>
+								<key>en</key>
+								<string>New Document</string>
+								<key>es</key>
+								<string>Documento nuevo</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Nieuw document</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Standard Font:) : &lt;title:Standard Font:&gt; (oid:27)</string>
+							<key>key</key>
+							<string>Standard Font:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Standardschrift:</string>
+								<key>en</key>
+								<string>Standard Font:</string>
+								<key>es</key>
+								<string>Tipografía estándar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Standaard lettertype</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (To-do) : &lt;title:To-do&gt; (oid:29)</string>
+							<key>key</key>
+							<string>To-do</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nicht erledigt</string>
+								<key>en</key>
+								<string>To-do</string>
+								<key>es</key>
+								<string>Para hacer</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>To-do</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Add new items) : &lt;title:Add new items&gt; (oid:60)</string>
+							<key>key</key>
+							<string>Add new items</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neue Objekte einfügen:</string>
+								<key>en</key>
+								<string>Add new items</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Behaviour:) : &lt;title:Behaviour:&gt; (oid:58)</string>
+							<key>key</key>
+							<string>Behaviour:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Verhalten:</string>
+								<key>en</key>
+								<string>Behaviour:</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Done Active) : &lt;title:Done Active&gt; (oid:57)</string>
+							<key>key</key>
+							<string>Done Active</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt Aktiv</string>
+								<key>en</key>
+								<string>Done Active</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton (Move done items to the end of the list) : &lt;title:Move done items to the end of the list&gt; (oid:59)</string>
+							<key>key</key>
+							<string>Move done items to the end of the list</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigte Objekte ans Ende bewegen</string>
+								<key>en</key>
+								<string>Move done items to the end of the list</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenu : &lt;title:OtherViews&gt; (oid:62)</string>
+							<key>key</key>
+							<string>OtherViews</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>OtherViews</string>
+								<key>en</key>
+								<string>OtherViews</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:above the selected item&gt; (oid:65)</string>
+							<key>key</key>
+							<string>above the selected item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>über dem aktuellen</string>
+								<key>en</key>
+								<string>above the selected item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:at the beginning&gt; (oid:64)</string>
+							<key>key</key>
+							<string>at the beginning</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>am Anfang</string>
+								<key>en</key>
+								<string>at the beginning</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:at the end&gt; (oid:66)</string>
+							<key>key</key>
+							<string>at the end</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>am Ende</string>
+								<key>en</key>
+								<string>at the end</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSMenuItem : &lt;title:below the selected item&gt; (oid:63)</string>
+							<key>key</key>
+							<string>below the selected item</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>unter dem aktuellen</string>
+								<key>en</key>
+								<string>below the selected item</string>
+								<key>es</key>
+								<string></string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string></string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>class</key>
+					<string>BLStringsFileObject</string>
+					<key>name</key>
+					<string>InfoPlist.strings</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Localized versions of Info.plist keys</string>
+							<key>key</key>
+							<string>CFBundleName</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler</string>
+								<key>en</key>
+								<string>Stapler</string>
+								<key>es</key>
+								<string>Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>CFBundleShortVersionString</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>1.1</string>
+								<key>en</key>
+								<string>1.1</string>
+								<key>es</key>
+								<string>1.1</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>1.1</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>CFBundleGetInfoString</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>en</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>es</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>NSHumanReadableCopyright</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>en</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>es</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+							</dict>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Localized versions of Info.plist keys</string>
+							<key>key</key>
+							<string>CFBundleName</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler</string>
+								<key>en</key>
+								<string>Stapler</string>
+								<key>es</key>
+								<string>Stapler</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>CFBundleShortVersionString</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>1.1</string>
+								<key>en</key>
+								<string>1.1</string>
+								<key>es</key>
+								<string>1.1</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>1.1</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>CFBundleGetInfoString</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>en</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>es</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Stapler 1.1 © 2006 The Blue Technologies Group</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string></string>
+							<key>key</key>
+							<string>NSHumanReadableCopyright</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>en</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>es</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Copyright 2006 The Blue Technologies Group</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>class</key>
+					<string>BLStringsFileObject</string>
+					<key>name</key>
+					<string>Localizable.strings</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for adding an item</string>
+							<key>key</key>
+							<string>Add</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hinzufügen</string>
+								<key>en</key>
+								<string>Add</string>
+								<key>es</key>
+								<string>Añadir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toevoegen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for removing an item</string>
+							<key>key</key>
+							<string>Remove</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Löschen</string>
+								<key>en</key>
+								<string>Remove</string>
+								<key>es</key>
+								<string>Quitar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for adding an attachment</string>
+							<key>key</key>
+							<string>Attachment</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Anhang</string>
+								<key>en</key>
+								<string>Attachment</string>
+								<key>es</key>
+								<string>Adjuntar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bijlage</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for saving the document</string>
+							<key>key</key>
+							<string>Save</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern</string>
+								<key>en</key>
+								<string>Save</string>
+								<key>es</key>
+								<string>Guardar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar</string>
+							</dict>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for adding an item</string>
+							<key>key</key>
+							<string>Add</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hinzufügen</string>
+								<key>en</key>
+								<string>Add</string>
+								<key>es</key>
+								<string>Añadir</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Toevoegen</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for removing an item</string>
+							<key>key</key>
+							<string>Remove</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Löschen</string>
+								<key>en</key>
+								<string>Remove</string>
+								<key>es</key>
+								<string>Quitar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Verwijder</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for adding an attachment</string>
+							<key>key</key>
+							<string>Attachment</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Anhang</string>
+								<key>en</key>
+								<string>Attachment</string>
+								<key>es</key>
+								<string>Adjuntar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bijlage</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Toolbar button for saving the document</string>
+							<key>key</key>
+							<string>Save</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sichern</string>
+								<key>en</key>
+								<string>Save</string>
+								<key>es</key>
+								<string>Guardar</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Bewaar</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>name</key>
+					<string>CompositeViewObject.nib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (10.10.2005) : &lt;title:10.10.2005&gt; (oid:49)</string>
+							<key>key</key>
+							<string>10.10.2005</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>10.10.2005</string>
+								<key>en</key>
+								<string>10.10.2005</string>
+								<key>es</key>
+								<string>10.10.2005</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>10-10-2005</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (:) : &lt;title::&gt; (oid:51)</string>
+							<key>key</key>
+							<string>:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>:</string>
+								<key>en</key>
+								<string>:</string>
+								<key>es</key>
+								<string>:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Created:) : &lt;title:Created:&gt; (oid:39)</string>
+							<key>key</key>
+							<string>Created:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erstellt:</string>
+								<key>en</key>
+								<string>Created:</string>
+								<key>es</key>
+								<string>Creado:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Aangemaakt:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton (Done) : &lt;title:Done&gt; (oid:48)</string>
+							<key>key</key>
+							<string>Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt</string>
+								<key>en</key>
+								<string>Done</string>
+								<key>es</key>
+								<string>Hecho</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gedaan</string>
+							</dict>
+						</dict>
+					</array>
+					<key>old objects</key>
+					<array>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (10.10.2005) : &lt;title:10.10.2005&gt; (oid:49)</string>
+							<key>key</key>
+							<string>10.10.2005</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>10.10.2005</string>
+								<key>en</key>
+								<string>10.10.2005</string>
+								<key>es</key>
+								<string>10.10.2005</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>10-10-2005</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (:) : &lt;title::&gt; (oid:51)</string>
+							<key>key</key>
+							<string>:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>:</string>
+								<key>en</key>
+								<string>:</string>
+								<key>es</key>
+								<string>:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSTextField (Created:) : &lt;title:Created:&gt; (oid:39)</string>
+							<key>key</key>
+							<string>Created:</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erstellt:</string>
+								<key>en</key>
+								<string>Created:</string>
+								<key>es</key>
+								<string>Creado:</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Aangemaakt:</string>
+							</dict>
+						</dict>
+						<dict>
+							<key>changed values</key>
+							<array/>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>NSButton (Done) : &lt;title:Done&gt; (oid:48)</string>
+							<key>key</key>
+							<string>Done</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erledigt</string>
+								<key>en</key>
+								<string>Done</string>
+								<key>es</key>
+								<string>Hecho</string>
+								<key>fr</key>
+								<string></string>
+								<key>nl</key>
+								<string>Gedaan</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>/Users/max/Blue Technologies/Programme/Stapler/Interface</string>
+			<key>naming style</key>
+			<integer>0</integer>
+			<key>user name</key>
+			<string>Interface</string>
+		</dict>
+	</array>
+	<key>languages</key>
+	<array>
+		<string>en</string>
+		<string>de</string>
+		<string>es</string>
+		<string>nl</string>
+		<string>fr</string>
+	</array>
+	<key>reference language</key>
+	<string>en</string>
+	<key>supports preview</key>
+	<true/>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

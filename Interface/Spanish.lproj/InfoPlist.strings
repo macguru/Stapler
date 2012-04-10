@@ -1,0 +1,12 @@
+﻿
+/* Localized versions of Info.plist keys */
+"CFBundleGetInfoString" = "Stapler 1.1 © 2006 The Blue Technologies Group";
+
+/* Localized versions of Info.plist keys */
+"CFBundleName" = "Stapler";
+
+/* Localized versions of Info.plist keys */
+"CFBundleShortVersionString" = "1.1";
+
+/* Localized versions of Info.plist keys */
+"NSHumanReadableCopyright" = "Copyright 2006 The Blue Technologies Group";

@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {CLASS = CompositeView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {
+            ACTIONS = {addItem = id; changePreferenceFont = id; removeItem = id; }; 
+            CLASS = Document; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {mainView = CompositeView; preferencesWindow = NSWindow; }; 
+            SUPERCLASS = NSDocument; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

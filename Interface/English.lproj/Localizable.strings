@@ -1,0 +1,11 @@
+/* Toolbar button for adding an item */
+"Add" = "Add";
+
+/* Toolbar button for removing an item */
+"Remove" = "Remove";
+
+/* Toolbar button for adding an attachment */
+"Attachment" = "Attachment";
+
+/* Toolbar button for saving the document */
+"Save" = "Save";

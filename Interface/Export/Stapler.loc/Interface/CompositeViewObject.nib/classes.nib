@@ -1,0 +1,26 @@
+{
+    IBClasses = (
+        {
+            CLASS = CompositeObjectTextView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {owner = CompositeObject; }; 
+            SUPERCLASS = NSTextView; 
+        }, 
+        {
+            CLASS = CompositeObjectView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {object = CompositeViewObject; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {CLASS = CompositeTriangleButton; LANGUAGE = ObjC; SUPERCLASS = NSButton; }, 
+        {
+            ACTIONS = {toggleCollapsed = id; }; 
+            CLASS = CompositeViewObject; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {button = NSButton; infoView = NSView; textView = NSTextView; view = NSView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

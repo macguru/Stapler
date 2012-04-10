@@ -1,0 +1,34 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                addItem = id; 
+                collapseItem = id; 
+                moveItem = id; 
+                openAboutBox = id; 
+                openPreferences = id; 
+                printDocument = id; 
+                removeItem = id; 
+                searchForUpdates = id; 
+            }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                addItem = id; 
+                changePreferenceFont = id; 
+                collapseItem = id; 
+                moveItem = id; 
+                removeItem = id; 
+            }; 
+            CLASS = Document; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {mainView = CompositeView; preferencesWindow = NSWindow; }; 
+            SUPERCLASS = NSDocument; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

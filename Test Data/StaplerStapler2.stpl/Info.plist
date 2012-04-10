@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0.rtfd</key>
+	<dict>
+		<key>collapsed</key>
+		<true/>
+		<key>completionDate</key>
+		<date>2006-02-28T20:47:04Z</date>
+		<key>creationDate</key>
+		<date>2006-02-27T08:01:56Z</date>
+	</dict>
+	<key>1.rtfd</key>
+	<dict>
+		<key>collapsed</key>
+		<true/>
+		<key>completionDate</key>
+		<date>2006-03-01T00:40:03Z</date>
+		<key>creationDate</key>
+		<date>2006-02-27T08:02:06Z</date>
+	</dict>
+	<key>2.rtfd</key>
+	<dict>
+		<key>collapsed</key>
+		<true/>
+		<key>completionDate</key>
+		<date>2006-02-28T21:01:14Z</date>
+		<key>creationDate</key>
+		<date>2006-02-27T08:05:30Z</date>
+	</dict>
+	<key>3.rtfd</key>
+	<dict>
+		<key>collapsed</key>
+		<true/>
+		<key>completionDate</key>
+		<date>2006-02-27T22:51:44Z</date>
+		<key>creationDate</key>
+		<date>2006-02-27T08:02:50Z</date>
+	</dict>
+	<key>4.rtfd</key>
+	<dict>
+		<key>collapsed</key>
+		<true/>
+		<key>completionDate</key>
+		<date>2006-02-27T22:52:21Z</date>
+		<key>creationDate</key>
+		<date>2006-02-27T08:09:50Z</date>
+	</dict>
+</dict>
+</plist>

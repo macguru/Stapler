@@ -1,0 +1,623 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5063E72709B51247009D3AEF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5063E72509B51247009D3AEF /* Localizable.strings */; };
+		509E9F88153421E10027E12B /* BTArchiving.m in Sources */ = {isa = PBXBuildFile; fileRef = 509E9F87153421E10027E12B /* BTArchiving.m */; };
+		50A854A209AD0C970087A797 /* CompositeObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549409AD0C970087A797 /* CompositeObject.m */; };
+		50A854A409AD0C970087A797 /* CompositeViewObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549609AD0C970087A797 /* CompositeViewObject.m */; };
+		50A854A509AD0C970087A797 /* CompositeObjectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549709AD0C970087A797 /* CompositeObjectView.m */; };
+		50A854A609AD0C970087A797 /* CompositeObjectTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549809AD0C970087A797 /* CompositeObjectTextView.m */; };
+		50A854A909AD0C970087A797 /* CompositeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549B09AD0C970087A797 /* CompositeView.m */; };
+		50A854AB09AD0C970087A797 /* CompositeViewStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8549D09AD0C970087A797 /* CompositeViewStorage.m */; };
+		50A854CA09AD0D750087A797 /* DistributedTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A854C609AD0D750087A797 /* DistributedTextStorage.m */; };
+		50A854CB09AD0D750087A797 /* DistributingTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A854C709AD0D750087A797 /* DistributingTextStorage.m */; };
+		50A8569209AD181C0087A797 /* CompositeTriangleButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A8569009AD181C0087A797 /* CompositeTriangleButton.m */; };
+		50AC669F09ACFF2D007FF3EC /* Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 50AC669D09ACFF2D007FF3EC /* Controller.m */; };
+		50AC681109AD0040007FF3EC /* AboutBox.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 50AC681009AD0040007FF3EC /* AboutBox.rtf */; };
+		50B675640F8BB16E00D69108 /* CompositeViewObject.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50B675520F8BB16E00D69108 /* CompositeViewObject.xib */; };
+		50B675650F8BB16E00D69108 /* Document.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50B675580F8BB16E00D69108 /* Document.xib */; };
+		50B675660F8BB16E00D69108 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50B6755E0F8BB16E00D69108 /* MainMenu.xib */; };
+		50C909FF1534235900D94C64 /* Stapler.mdimporter in CopyFiles */ = {isa = PBXBuildFile; fileRef = 50441D820D1070DB00CFDEAF /* Stapler.mdimporter */; };
+		50E1A4F409B3B7BE00233E7B /* SaveTool.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A4EF09B3B7BE00233E7B /* SaveTool.png */; };
+		50E1A4F509B3B7BE00233E7B /* RemoveTool.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A4F009B3B7BE00233E7B /* RemoveTool.png */; };
+		50E1A4F609B3B7BE00233E7B /* Stapler.icns in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A4F109B3B7BE00233E7B /* Stapler.icns */; };
+		50E1A4F709B3B7BE00233E7B /* STPL.icns in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A4F209B3B7BE00233E7B /* STPL.icns */; };
+		50E1A4F809B3B7BE00233E7B /* AddTool.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A4F309B3B7BE00233E7B /* AddTool.png */; };
+		50E1A50F09B44BC700233E7B /* title_Stapler.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E1A50E09B44BC700233E7B /* title_Stapler.png */; };
+		8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165FFE840EACC02AAC07 /* InfoPlist.strings */; };
+		8D15AC310486D014006FF6A4 /* Document.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4ACFDCFA73011CA2CEA /* Document.m */; settings = {ATTRIBUTES = (); }; };
+		8D15AC320486D014006FF6A4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A37F4B0FDCFA73011CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		50441D810D1070DB00CFDEAF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50441D7D0D1070DB00CFDEAF /* MDImporter.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8D576316048677EA00EA77CD;
+			remoteInfo = Stapler;
+		};
+		50441DA90D10714300CFDEAF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50441D7D0D1070DB00CFDEAF /* MDImporter.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 8D57630D048677EA00EA77CD;
+			remoteInfo = Stapler;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5063E3E209B5015D009D3AEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = ../Library/Spotlight;
+			dstSubfolderSpec = 7;
+			files = (
+				50C909FF1534235900D94C64 /* Stapler.mdimporter in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		089C1660FE840EACC02AAC07 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = Interface/English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FBA07B3F13500E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		2A37F4ACFDCFA73011CA2CEA /* Document.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Document.m; path = Source/Document.m; sourceTree = "<group>"; };
+		2A37F4AEFDCFA73011CA2CEA /* Document.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Document.h; path = Source/Document.h; sourceTree = "<group>"; };
+		2A37F4B0FDCFA73011CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Source/main.m; sourceTree = "<group>"; };
+		2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32DBCF750370BD2300C91783 /* Stapler_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Stapler_Prefix.pch; path = Source/Stapler_Prefix.pch; sourceTree = "<group>"; };
+		50441D7D0D1070DB00CFDEAF /* MDImporter.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MDImporter.xcodeproj; path = MDImporter/MDImporter.xcodeproj; sourceTree = "<group>"; };
+		5063E40609B5019B009D3AEF /* Stapler.mdimporter */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; name = Stapler.mdimporter; path = MDImporter/build/Release/Stapler.mdimporter; sourceTree = "<group>"; };
+		5063E72609B51247009D3AEF /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = Interface/English.lproj/Localizable.strings; sourceTree = "<group>"; };
+		5063E74209B5145A009D3AEF /* German */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = German; path = Interface/German.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5063E74409B5145A009D3AEF /* German */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = German; path = Interface/German.lproj/AboutBox.rtf; sourceTree = "<group>"; };
+		5063E74609B5145A009D3AEF /* German */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = German; path = Interface/German.lproj/Localizable.strings; sourceTree = "<group>"; };
+		509E9F86153421E10027E12B /* BTArchiving.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BTArchiving.h; path = Source/BTArchiving.h; sourceTree = "<group>"; };
+		509E9F87153421E10027E12B /* BTArchiving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BTArchiving.m; path = Source/BTArchiving.m; sourceTree = "<group>"; };
+		50A8549409AD0C970087A797 /* CompositeObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeObject.m; path = Source/CompositeObject.m; sourceTree = "<group>"; };
+		50A8549509AD0C970087A797 /* CompositeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeView.h; path = Source/CompositeView.h; sourceTree = "<group>"; };
+		50A8549609AD0C970087A797 /* CompositeViewObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeViewObject.m; path = Source/CompositeViewObject.m; sourceTree = "<group>"; };
+		50A8549709AD0C970087A797 /* CompositeObjectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeObjectView.m; path = Source/CompositeObjectView.m; sourceTree = "<group>"; };
+		50A8549809AD0C970087A797 /* CompositeObjectTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeObjectTextView.m; path = Source/CompositeObjectTextView.m; sourceTree = "<group>"; };
+		50A8549909AD0C970087A797 /* CompositeObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeObject.h; path = Source/CompositeObject.h; sourceTree = "<group>"; };
+		50A8549A09AD0C970087A797 /* CompositeViewStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeViewStorage.h; path = Source/CompositeViewStorage.h; sourceTree = "<group>"; };
+		50A8549B09AD0C970087A797 /* CompositeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeView.m; path = Source/CompositeView.m; sourceTree = "<group>"; };
+		50A8549C09AD0C970087A797 /* CompositeObjectTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeObjectTextView.h; path = Source/CompositeObjectTextView.h; sourceTree = "<group>"; };
+		50A8549D09AD0C970087A797 /* CompositeViewStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeViewStorage.m; path = Source/CompositeViewStorage.m; sourceTree = "<group>"; };
+		50A8549E09AD0C970087A797 /* CompositeObjectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeObjectView.h; path = Source/CompositeObjectView.h; sourceTree = "<group>"; };
+		50A854A109AD0C970087A797 /* CompositeViewObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeViewObject.h; path = Source/CompositeViewObject.h; sourceTree = "<group>"; };
+		50A854C509AD0D750087A797 /* DistributingTextStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DistributingTextStorage.h; path = Source/DistributingTextStorage.h; sourceTree = "<group>"; };
+		50A854C609AD0D750087A797 /* DistributedTextStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DistributedTextStorage.m; path = Source/DistributedTextStorage.m; sourceTree = "<group>"; };
+		50A854C709AD0D750087A797 /* DistributingTextStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DistributingTextStorage.m; path = Source/DistributingTextStorage.m; sourceTree = "<group>"; };
+		50A854C809AD0D750087A797 /* DistributedTextStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DistributedTextStorage.h; path = Source/DistributedTextStorage.h; sourceTree = "<group>"; };
+		50A854CF09AD0DBB0087A797 /* ChangeReport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChangeReport.h; path = Source/ChangeReport.h; sourceTree = "<group>"; };
+		50A8568F09AD181C0087A797 /* CompositeTriangleButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompositeTriangleButton.h; path = Source/CompositeTriangleButton.h; sourceTree = "<group>"; };
+		50A8569009AD181C0087A797 /* CompositeTriangleButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompositeTriangleButton.m; path = Source/CompositeTriangleButton.m; sourceTree = "<group>"; };
+		50A8835C0A6C138800647446 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Dutch; path = Interface/Dutch.lproj/AboutBox.rtf; sourceTree = "<group>"; };
+		50A8835D0A6C138800647446 /* Dutch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = Dutch; path = Interface/Dutch.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50A8835F0A6C138800647446 /* Dutch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = Dutch; path = Interface/Dutch.lproj/Localizable.strings; sourceTree = "<group>"; };
+		50A883600A6C138800647446 /* Spanish */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = Spanish; path = Interface/Spanish.lproj/Localizable.strings; sourceTree = "<group>"; };
+		50A883610A6C138800647446 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Spanish; path = Interface/Spanish.lproj/AboutBox.rtf; sourceTree = "<group>"; };
+		50A883650A6C138800647446 /* Spanish */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = Spanish; path = Interface/Spanish.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50AC666E09ACFE43007FF3EC /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Other/Info.plist; sourceTree = "<group>"; };
+		50AC669C09ACFF2D007FF3EC /* Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Controller.h; path = Source/Controller.h; sourceTree = "<group>"; };
+		50AC669D09ACFF2D007FF3EC /* Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Controller.m; path = Source/Controller.m; sourceTree = "<group>"; };
+		50AC680E09AD0037007FF3EC /* AboutBox.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = AboutBox.rtf; path = Interface/English.lproj/AboutBox.rtf; sourceTree = "<group>"; };
+		50B675530F8BB16E00D69108 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Dutch; path = Interface/Dutch.lproj/CompositeViewObject.xib; sourceTree = "<group>"; };
+		50B675540F8BB16E00D69108 /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = Interface/French.lproj/CompositeViewObject.xib; sourceTree = "<group>"; };
+		50B675550F8BB16E00D69108 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Spanish; path = Interface/Spanish.lproj/CompositeViewObject.xib; sourceTree = "<group>"; };
+		50B675560F8BB16E00D69108 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = Interface/English.lproj/CompositeViewObject.xib; sourceTree = "<group>"; };
+		50B675570F8BB16E00D69108 /* German */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = German; path = Interface/German.lproj/CompositeViewObject.xib; sourceTree = "<group>"; };
+		50B675590F8BB16E00D69108 /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = Interface/French.lproj/Document.xib; sourceTree = "<group>"; };
+		50B6755A0F8BB16E00D69108 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Dutch; path = Interface/Dutch.lproj/Document.xib; sourceTree = "<group>"; };
+		50B6755B0F8BB16E00D69108 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Spanish; path = Interface/Spanish.lproj/Document.xib; sourceTree = "<group>"; };
+		50B6755C0F8BB16E00D69108 /* German */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = German; path = Interface/German.lproj/Document.xib; sourceTree = "<group>"; };
+		50B6755D0F8BB16E00D69108 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = Interface/English.lproj/Document.xib; sourceTree = "<group>"; };
+		50B6755F0F8BB16E00D69108 /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = Interface/French.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		50B675600F8BB16E00D69108 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Dutch; path = Interface/Dutch.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		50B675610F8BB16E00D69108 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Spanish; path = Interface/Spanish.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		50B675620F8BB16E00D69108 /* German */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = German; path = Interface/German.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		50B675630F8BB16E00D69108 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = Interface/English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		50E1A4EF09B3B7BE00233E7B /* SaveTool.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SaveTool.png; sourceTree = "<group>"; };
+		50E1A4F009B3B7BE00233E7B /* RemoveTool.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RemoveTool.png; sourceTree = "<group>"; };
+		50E1A4F109B3B7BE00233E7B /* Stapler.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Stapler.icns; sourceTree = "<group>"; };
+		50E1A4F209B3B7BE00233E7B /* STPL.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = STPL.icns; sourceTree = "<group>"; };
+		50E1A4F309B3B7BE00233E7B /* AddTool.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AddTool.png; sourceTree = "<group>"; };
+		50E1A50E09B44BC700233E7B /* title_Stapler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_Stapler.png; sourceTree = "<group>"; };
+		50F2DED50B2B40EE00BE829B /* French */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = French; path = Interface/French.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50F2DED60B2B40EE00BE829B /* French */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = French; path = Interface/French.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8D15AC370486D014006FF6A4 /* Stapler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stapler.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D15AC330486D014006FF6A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A8FEA54F5311CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */,
+				13E42FBA07B3F13500E4EEF1 /* CoreData.framework */,
+				2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FB0FE9D524F11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D15AC370486D014006FF6A4 /* Stapler.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2A37F4AAFDCFA73011CA2CEA /* Stapler */ = {
+			isa = PBXGroup;
+			children = (
+				2A37F4ABFDCFA73011CA2CEA /* Classes */,
+				50A8548F09AD0C220087A797 /* Composite Object */,
+				50A854D309AD0DC30087A797 /* Text System */,
+				509E9F85153421D10027E12B /* Utilities */,
+				2A37F4AFFDCFA73011CA2CEA /* Other Sources */,
+				2A37F4B8FDCFA73011CA2CEA /* Resources */,
+				50A8553D09AD15F60087A797 /* Images */,
+				2A37F4C3FDCFA73011CA2CEA /* Frameworks */,
+				50441D830D1070DD00CFDEAF /* Dependencies */,
+				19C28FB0FE9D524F11CA2CBB /* Products */,
+			);
+			name = Stapler;
+			sourceTree = "<group>";
+		};
+		2A37F4ABFDCFA73011CA2CEA /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				50AC669C09ACFF2D007FF3EC /* Controller.h */,
+				50AC669D09ACFF2D007FF3EC /* Controller.m */,
+				2A37F4AEFDCFA73011CA2CEA /* Document.h */,
+				2A37F4ACFDCFA73011CA2CEA /* Document.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		2A37F4AFFDCFA73011CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF750370BD2300C91783 /* Stapler_Prefix.pch */,
+				50A854CF09AD0DBB0087A797 /* ChangeReport.h */,
+				2A37F4B0FDCFA73011CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		2A37F4B8FDCFA73011CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				50B675520F8BB16E00D69108 /* CompositeViewObject.xib */,
+				50B675580F8BB16E00D69108 /* Document.xib */,
+				50B6755E0F8BB16E00D69108 /* MainMenu.xib */,
+				50AC666E09ACFE43007FF3EC /* Info.plist */,
+				089C165FFE840EACC02AAC07 /* InfoPlist.strings */,
+				5063E72509B51247009D3AEF /* Localizable.strings */,
+				50AC681009AD0040007FF3EC /* AboutBox.rtf */,
+				5063E40609B5019B009D3AEF /* Stapler.mdimporter */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		2A37F4C3FDCFA73011CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */,
+				1058C7A8FEA54F5311CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		50441D7E0D1070DB00CFDEAF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50441D820D1070DB00CFDEAF /* Stapler.mdimporter */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50441D830D1070DD00CFDEAF /* Dependencies */ = {
+			isa = PBXGroup;
+			children = (
+				50441D7D0D1070DB00CFDEAF /* MDImporter.xcodeproj */,
+			);
+			name = Dependencies;
+			sourceTree = "<group>";
+		};
+		509E9F85153421D10027E12B /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				509E9F86153421E10027E12B /* BTArchiving.h */,
+				509E9F87153421E10027E12B /* BTArchiving.m */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		50A8548F09AD0C220087A797 /* Composite Object */ = {
+			isa = PBXGroup;
+			children = (
+				50A8549A09AD0C970087A797 /* CompositeViewStorage.h */,
+				50A8549D09AD0C970087A797 /* CompositeViewStorage.m */,
+				50A8549909AD0C970087A797 /* CompositeObject.h */,
+				50A8549409AD0C970087A797 /* CompositeObject.m */,
+				50A8549509AD0C970087A797 /* CompositeView.h */,
+				50A8549B09AD0C970087A797 /* CompositeView.m */,
+				50A854A109AD0C970087A797 /* CompositeViewObject.h */,
+				50A8549609AD0C970087A797 /* CompositeViewObject.m */,
+				50A8549E09AD0C970087A797 /* CompositeObjectView.h */,
+				50A8549709AD0C970087A797 /* CompositeObjectView.m */,
+				50A8549C09AD0C970087A797 /* CompositeObjectTextView.h */,
+				50A8549809AD0C970087A797 /* CompositeObjectTextView.m */,
+				50A8568F09AD181C0087A797 /* CompositeTriangleButton.h */,
+				50A8569009AD181C0087A797 /* CompositeTriangleButton.m */,
+			);
+			name = "Composite Object";
+			sourceTree = "<group>";
+		};
+		50A854D309AD0DC30087A797 /* Text System */ = {
+			isa = PBXGroup;
+			children = (
+				50A854C509AD0D750087A797 /* DistributingTextStorage.h */,
+				50A854C709AD0D750087A797 /* DistributingTextStorage.m */,
+				50A854C809AD0D750087A797 /* DistributedTextStorage.h */,
+				50A854C609AD0D750087A797 /* DistributedTextStorage.m */,
+			);
+			name = "Text System";
+			sourceTree = "<group>";
+		};
+		50A8553D09AD15F60087A797 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				50E1A4EF09B3B7BE00233E7B /* SaveTool.png */,
+				50E1A4F009B3B7BE00233E7B /* RemoveTool.png */,
+				50E1A4F109B3B7BE00233E7B /* Stapler.icns */,
+				50E1A4F209B3B7BE00233E7B /* STPL.icns */,
+				50E1A4F309B3B7BE00233E7B /* AddTool.png */,
+				50E1A50E09B44BC700233E7B /* title_Stapler.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D15AC270486D014006FF6A4 /* Stapler */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "Stapler" */;
+			buildPhases = (
+				8D15AC2B0486D014006FF6A4 /* Resources */,
+				8D15AC300486D014006FF6A4 /* Sources */,
+				8D15AC330486D014006FF6A4 /* Frameworks */,
+				5063E3E209B5015D009D3AEF /* CopyFiles */,
+				50AC66BA09ACFFE3007FF3EC /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				50441DAA0D10714300CFDEAF /* PBXTargetDependency */,
+			);
+			name = Stapler;
+			productInstallPath = "$(HOME)/Applications";
+			productName = Stapler;
+			productReference = 8D15AC370486D014006FF6A4 /* Stapler.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "Stapler" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				Dutch,
+				Spanish,
+			);
+			mainGroup = 2A37F4AAFDCFA73011CA2CEA /* Stapler */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 50441D7E0D1070DB00CFDEAF /* Products */;
+					ProjectRef = 50441D7D0D1070DB00CFDEAF /* MDImporter.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				8D15AC270486D014006FF6A4 /* Stapler */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		50441D820D1070DB00CFDEAF /* Stapler.mdimporter */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Stapler.mdimporter;
+			remoteRef = 50441D810D1070DB00CFDEAF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D15AC2B0486D014006FF6A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC2F0486D014006FF6A4 /* InfoPlist.strings in Resources */,
+				50AC681109AD0040007FF3EC /* AboutBox.rtf in Resources */,
+				50E1A4F409B3B7BE00233E7B /* SaveTool.png in Resources */,
+				50E1A4F509B3B7BE00233E7B /* RemoveTool.png in Resources */,
+				50E1A4F609B3B7BE00233E7B /* Stapler.icns in Resources */,
+				50E1A4F709B3B7BE00233E7B /* STPL.icns in Resources */,
+				50E1A4F809B3B7BE00233E7B /* AddTool.png in Resources */,
+				50E1A50F09B44BC700233E7B /* title_Stapler.png in Resources */,
+				5063E72709B51247009D3AEF /* Localizable.strings in Resources */,
+				50B675640F8BB16E00D69108 /* CompositeViewObject.xib in Resources */,
+				50B675650F8BB16E00D69108 /* Document.xib in Resources */,
+				50B675660F8BB16E00D69108 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		50AC66BA09ACFFE3007FF3EC /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "echo \"Stripping nib-files\"\n\ncd \"$BUILD_DIR\"\nfind . -name classes.nib -exec rm {} \\;\nfind . -name info.nib -exec rm {} \\;\nfind . -name objects.nib -exec rm {} \\;\n\necho \"Stripping header files\"\n\ncd \"$BUILD_DIR\"\nfind . -name \"*.h\" -exec rm {} \\;\n\necho \"Updating build number\"\n\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion `git rev-list --all | wc -l`\" \"${TARGET_BUILD_DIR}/${INFOPLIST_PATH}\"\n\necho \"Done\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D15AC300486D014006FF6A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC310486D014006FF6A4 /* Document.m in Sources */,
+				8D15AC320486D014006FF6A4 /* main.m in Sources */,
+				50AC669F09ACFF2D007FF3EC /* Controller.m in Sources */,
+				50A854A209AD0C970087A797 /* CompositeObject.m in Sources */,
+				50A854A409AD0C970087A797 /* CompositeViewObject.m in Sources */,
+				50A854A509AD0C970087A797 /* CompositeObjectView.m in Sources */,
+				50A854A609AD0C970087A797 /* CompositeObjectTextView.m in Sources */,
+				50A854A909AD0C970087A797 /* CompositeView.m in Sources */,
+				50A854AB09AD0C970087A797 /* CompositeViewStorage.m in Sources */,
+				50A854CA09AD0D750087A797 /* DistributedTextStorage.m in Sources */,
+				50A854CB09AD0D750087A797 /* DistributingTextStorage.m in Sources */,
+				50A8569209AD181C0087A797 /* CompositeTriangleButton.m in Sources */,
+				509E9F88153421E10027E12B /* BTArchiving.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		50441DAA0D10714300CFDEAF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Stapler;
+			targetProxy = 50441DA90D10714300CFDEAF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		089C165FFE840EACC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C1660FE840EACC02AAC07 /* InfoPlist.strings */,
+				5063E74209B5145A009D3AEF /* German */,
+				50A8835D0A6C138800647446 /* Dutch */,
+				50A883650A6C138800647446 /* Spanish */,
+				50F2DED50B2B40EE00BE829B /* French */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5063E72509B51247009D3AEF /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5063E72609B51247009D3AEF /* English */,
+				5063E74609B5145A009D3AEF /* German */,
+				50A8835F0A6C138800647446 /* Dutch */,
+				50A883600A6C138800647446 /* Spanish */,
+				50F2DED60B2B40EE00BE829B /* French */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		50AC681009AD0040007FF3EC /* AboutBox.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50AC680E09AD0037007FF3EC /* AboutBox.rtf */,
+				5063E74409B5145A009D3AEF /* German */,
+				50A8835C0A6C138800647446 /* Dutch */,
+				50A883610A6C138800647446 /* Spanish */,
+			);
+			name = AboutBox.rtf;
+			sourceTree = "<group>";
+		};
+		50B675520F8BB16E00D69108 /* CompositeViewObject.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B675530F8BB16E00D69108 /* Dutch */,
+				50B675540F8BB16E00D69108 /* French */,
+				50B675550F8BB16E00D69108 /* Spanish */,
+				50B675560F8BB16E00D69108 /* English */,
+				50B675570F8BB16E00D69108 /* German */,
+			);
+			name = CompositeViewObject.xib;
+			sourceTree = "<group>";
+		};
+		50B675580F8BB16E00D69108 /* Document.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B675590F8BB16E00D69108 /* French */,
+				50B6755A0F8BB16E00D69108 /* Dutch */,
+				50B6755B0F8BB16E00D69108 /* Spanish */,
+				50B6755C0F8BB16E00D69108 /* German */,
+				50B6755D0F8BB16E00D69108 /* English */,
+			);
+			name = Document.xib;
+			sourceTree = "<group>";
+		};
+		50B6755E0F8BB16E00D69108 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50B6755F0F8BB16E00D69108 /* French */,
+				50B675600F8BB16E00D69108 /* Dutch */,
+				50B675610F8BB16E00D69108 /* Spanish */,
+				50B675620F8BB16E00D69108 /* German */,
+				50B675630F8BB16E00D69108 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C05733C808A9546B00998B17 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				BUILD_VARIANTS = normal;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)/../../Frameworks/BlueApplication Framework/build/Deployment\"";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Source/Stapler_Prefix.pch;
+				INFOPLIST_FILE = Other/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = Stapler;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+					"-Wall",
+				);
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		C05733C908A9546B00998B17 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				BUILD_VARIANTS = normal;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)/../../Frameworks/BlueApplication Framework/build/Deployment\"";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Source/Stapler_Prefix.pch;
+				INFOPLIST_FILE = Other/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = Stapler;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+					"-Wall",
+				);
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C05733CC08A9546B00998B17 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C05733CD08A9546B00998B17 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "Stapler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C05733C808A9546B00998B17 /* Debug */,
+				C05733C908A9546B00998B17 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "Stapler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C05733CC08A9546B00998B17 /* Debug */,
+				C05733CD08A9546B00998B17 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2A37F4A9FDCFA73011CA2CEA /* Project object */;
+}
